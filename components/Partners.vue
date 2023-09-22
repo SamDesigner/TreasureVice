@@ -3,7 +3,7 @@
         <h1 class="leading-[28px] text-darkGreen">Trusted by these amazing people</h1>
         <div class="flex flex-col md:flex-row gap-[24px]">
             <img src="/svg/ICO.svg"/>
-            <img src="/svg/Care QualityCommission.svg" />
+            <img src="/svg/CareQualityCommission.svg" />
             <img src="/svg/Dementia Friends.svg" />
         </div>
     </div>  
