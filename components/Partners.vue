@@ -4,7 +4,7 @@
         <div class="flex flex-col md:flex-row gap-[24px]">
             <img src="/svg/ICO.svg"/>
             <img src="/svg/CareQualityCommission.svg" />
-            <img src="/svg/Dementia Friends.svg" />
+            <img src="/svg/DementiaFriends.svg" />
         </div>
     </div>  
 </template>
