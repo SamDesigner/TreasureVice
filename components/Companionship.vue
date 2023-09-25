@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-grayBg pt-[80px] ">
-        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1240px] mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 justify-center items-center">
+    <div class="bg-grayBg pt-[80px] lg:px-[80px] ">
+        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1440px]  mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 justify-center items-center">
             <div>
                 <div class="text-white space-y-4 text-center md:text-left">
                     <h1 class="text-lightGreen">Who We Are</h1>
@@ -13,9 +13,9 @@
             </div>
         </div>
         
-        <div class="pt-[40px] md:pt-[80px] px-[16px] ">
-            <div class=" gap-y-[40px] md:space-y-0   lg:px[0] py-[40px] w-auto max-w-[1240px] mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 justify-center items-center">
-                <div class="custom_bg2 h-[280px] md:h-[480px] order-2  md:order-1 rounded-3xl">
+        <div class="pt-[40px] md:pt-[80px] px-[16px]  ">
+            <div class=" gap-y-[40px] md:space-y-0   lg:px[80px] py-[40px] w-auto max-w-[1440px] mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 justify-center items-center">
+                <div class="custom_bg2 h-[280px] md:h-[480px]  order-2  md:order-1 rounded-3xl">
 
                 </div>
                 <div class="flex flex-col gap-10 order-1 md:order-2 ">

@@ -7,9 +7,10 @@ module.exports = {
         primary:'#00662A',
         darkGreen:'#003E29',
         lightGreen:'#04A44C',
-        grayBg:'#E3F5EB',
+        grayBg:'#F1F2ED',
         lightGray:'#E3F5EB',
-        borderGray:'#606973'
+        borderGray:'#606973',
+        borderGreen:'#134B13'
       },
       backgroundImage:{
         'hero-bg':"url('/img/Hero-bg.png')"
