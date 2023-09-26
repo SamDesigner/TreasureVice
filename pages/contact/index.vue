@@ -3,5 +3,6 @@
         <HeaderGreen />
         <ContactHero />
         <Contact />
+        <Footer />
     </div>
 </template>
