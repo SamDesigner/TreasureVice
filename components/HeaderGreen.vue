@@ -2,7 +2,7 @@
     <div class="w-full bg-darkGreen text-white ">
         <div class="px-[16px] md:px-0  py-[24px] w-auto mx-auto  " :class="{'fixed-navbar' : isFixed}">
           
-            <nav class=" mx-auto max-w-[1440px] lg:px-[80px]    flex justify-between items-center">
+            <nav class=" mx-auto max-w-[1440px] px-[16px] lg:px-[80px]    flex justify-between items-center">
                 <nuxt-link to="/">
                     <img src="/svg/logo_green.svg" />
                 </nuxt-link>
@@ -45,7 +45,7 @@
                     </nuxt-link>
                 </div>
             </div>
-        <div class=" hidden lg:flex w-full max-w-[1440px] lg:px-[80px] mx-auto items-center  justify-between py-4  ">
+        <div class=" hidden lg:flex max-w-[1440px] px-[16px] lg:px-[80px] mx-auto items-center  justify-between py-4  ">
             <div class="flex items-center gap-5 w-[264px] border-r border-primary ">
                 <img src="/svg/cross-icon.svg" />
                 <span class=" text-white">CQC & CW Regulated</span>
@@ -63,7 +63,7 @@
                 <span  class="text-white ">Background Checked</span>
             </div>
         </div>
-        <div class="hidden md:flex lg:hidden py-4 justify-between items-center container mx-auto ">
+        <div class="hidden md:flex lg:hidden  py-4 justify-between items-center max-w-[1440px] px-[16px] mx-auto ">
             <div class="flex items-center gap-5 border-r border-primary w-[264px] ">
                 <img src="/svg/cross-icon.svg" />
                 <span class=" text-white">CQC & CW Regulated</span>

@@ -1,7 +1,7 @@
 <template>
-    <div class="bg-white py-[56px] md:py-[80px] px-[16px]">
+    <div class="bg-white py-[56px] md:py-[80px] px-[16px] lg:px-[80px]">
         
-        <div class="mx-auto max-w-[1240px] grid grid-cols-1 gap-y-8 md:gap-y-0 md:grid-cols-2 items-center md:gap-4 lg:gap-2">
+        <div class="max-w-[1440px] grid lg:grid-cols-2 gap-[32px] justify-center items-center">
             <div class="h-[280px]  md:h-[480px] lg:w-[592px] rounded-3xl custom_bg order-2 md:order-1">
 
             </div>
@@ -19,9 +19,9 @@
                     </div>
                 </div>  
                 <nuxt-link>
-                    <button class="bg-lightGreen flex items-center text-white gap-[8px] border border-white rounded-[1000px] py-[14px] px-[32px]">
+                    <button class="bg-lightGreen flex items-center text-white gap-[8px] w-full flex justify-center md:w-fit border border-white rounded-[1000px] py-[14px] px-[32px]">
                         <span>Book an appointment</span>
-                        <i class="pi pi-arrow-right">   </i>
+                        <i class="pi pi-arrow-right text-xs">   </i>
                     </button>
                 </nuxt-link>
             </div>

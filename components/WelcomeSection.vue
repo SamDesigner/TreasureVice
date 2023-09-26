@@ -7,7 +7,10 @@
                     We provide personalized home care to adults under and above 65 years to enable them to maintain a comfortable and independent living with dignity.
                 </p>
             </div>
-            <div class="w-full h-[240px] md:h-[600px] custom_bg">
+            <div data-aos="zoom-in-up" 
+                    data-aos-delay="1100"
+                    data-aos-easing="ease-in-out"
+                    class="w-full h-[240px] md:h-[600px] custom_bg">
 
             </div>
             

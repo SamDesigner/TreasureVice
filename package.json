@@ -26,6 +26,7 @@
     "primeicons": "^6.0.1",
     "sass": "^1.63.6",
     "scrollreveal": "^4.0.9",
+    "vue-country-region-select": "^2.0.16",
     "vue3-lottie": "^3.0.0"
   }
 }
