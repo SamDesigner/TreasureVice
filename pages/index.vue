@@ -2,11 +2,7 @@
   <div class="">
     <Header />
     <HeroSection />
-    <WelcomeSection 
-                 data-aos="flip-up"  
-                 data-aos-duration="1000"
-                data-aos-delay="0"
-                data-aos-easing="ease-in-out"/>
+    <WelcomeSection />
     <Companionship />
     <Partners />
     <FeaturedServices />

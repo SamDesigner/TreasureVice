@@ -19,11 +19,7 @@
             </div>
             <div>
                 <div 
-                data-aos="fade-left"
-                data-aos-duration="1000"
-                data-aos-delay="500"
-                data-aos-easing="ease-in-out"
-                data-aos-repeat="infinite"
+              
                 class="custom_bg bg-cover h-[240px] md:h-[760px] w-full lg:w-[592px] rounded-tr-2xl rounded-tl-2xl">
                     <img class="rounded-tr-2xl rounded-tl-2xl" src="/img/Hero-bg.png" />
                 </div>
