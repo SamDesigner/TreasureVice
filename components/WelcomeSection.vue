@@ -1,7 +1,11 @@
 <template>
     <div>
         <div class="max-w-[1440px] lg:px-[80px]  px-[16px] pt-[40px] md:pt-[80px] space-y-7">
-            <div class=" lg:w-[956px]">
+            <div 
+            data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="1500"
+            class=" lg:w-[956px]">
                 <h1 class="text-lightGreen">Welcome</h1>
                 <p class="text-darkGreen text-[24px] w-full lg:text-[40px]  font-bold">
                     We provide personalized home care to adults under and above 65 years to enable them to maintain a comfortable and independent living with dignity.
@@ -17,7 +21,11 @@
             
         </div>
         <div class="max-w-[1440px] mx-auto lg:px-[80px] py-[80px] px-[16px] flex flex-col gap-[64px]">
-            <div class="flex justify-center items-center">
+            <div
+            data-aos="fade-right"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine"
+            class="flex justify-center items-center">
                 <div class="text-center flex flex-col justify-center items-center">
                     <p class="text-primary">What we do</p>
                     <h1 class="text-darkGreen text-[20px] md:text-[32px] font-[600] leading-[48px]">Personalized In-Home Care</h1>
@@ -27,7 +35,11 @@
                 </div>
             </div>
             <div class=" flex flex-col gap-[40px] md:flex-row md:justify-between gap-4">
-                <div class="lg:w-[404px] space-y-3">
+                <div 
+                data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine"
+                class="lg:w-[404px] space-y-3">
                     <div>
                         <img src='/svg/clock.svg' />
                     </div>
@@ -36,7 +48,11 @@
                         We provide carers to stay with you 24/7 to give you complete peace of mind.
                     </p>
                 </div>
-                <div class="lg:w-[404px] space-y-3">
+                <div 
+                data-aos="fade-down"
+                data-aos-easing="linear"
+                data-aos-duration="1500"
+                class="lg:w-[404px] space-y-3">
                     <div>
                         <img src='/svg/user-star.svg' />
                     </div>
@@ -45,7 +61,12 @@
                         We have a professional, friendly, well trained, competent care teams who are passionate about what they do.
                     </p>
                 </div>
-                <div class="lg:w-[404px]  space-y-3">
+                <div 
+                data-aos="fade-left"
+               
+                data-aos-offset="400"
+                data-aos-duration="500"
+                class="lg:w-[404px]  space-y-3">
                     <div>
                         <img src='/svg/verified.svg' />
                     </div>

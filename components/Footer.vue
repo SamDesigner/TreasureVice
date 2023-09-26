@@ -20,10 +20,10 @@
                         <img src="/svg/footer_logo.svg" />
                     </div>
                     <div class=" flex flex-col md:flex-row items-center justify-center text-white  md:space-y-0 gap-[24px] text-[14px]">
-                        <nuxt-link>About</nuxt-link>
-                        <nuxt-link>Services</nuxt-link>
-                        <nuxt-link>Contact</nuxt-link>
-                        <nuxt-link>Useful Information</nuxt-link>
+                        <nuxt-link to="/about">About</nuxt-link>
+                        <nuxt-link to="/services">Services</nuxt-link>
+                        <nuxt-link to="/contact">Contact</nuxt-link>
+                        <nuxt-link to="/information">Useful Information</nuxt-link>
                             
                     </div>
                 </div>
