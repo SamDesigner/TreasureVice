@@ -64,7 +64,7 @@
                 <div 
                 data-aos="fade-left"
                
-                data-aos-offset="400"
+                data-aos-offset="300"
                 data-aos-duration="500"
                 class="lg:w-[404px]  space-y-3">
                     <div>

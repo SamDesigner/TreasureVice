@@ -15,7 +15,7 @@
                 </div>
                 <div class="hidden lg:flex" >
                     <nuxt-link>
-                        <div class=" bg-primary text-white py-3 px-6 rounded-3xl flex items-center gap-3 ">
+                        <div class=" bg-lightGreen text-white py-3 px-6 rounded-3xl flex items-center gap-3 ">
                             <span>Book an appointment</span>
                             <i class="pi pi-arrow-right text-xs"></i>
                         </div>
@@ -38,7 +38,7 @@
                     <nuxt-link to="/services">Services</nuxt-link>
                     <nuxt-link to="/contact">Contact us</nuxt-link>
                     <nuxt-link>
-                        <div class=" bg-primary text-white py-2 px-4 rounded-3xl flex items-center gap-3 ">
+                        <div class=" bg-lightGreen text-white py-2 px-4 rounded-3xl flex items-center gap-3 ">
                             <span>Book an appointment</span>
                             <i class="pi pi-arrow-right text-xs"></i>
                         </div>

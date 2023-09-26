@@ -1,7 +1,9 @@
 <template>
     <div class="bg-white py-[40px] md:py-[80px] px-[16px]">
         <div class="max-w-[1240px] mx-auto grid grid-cols-1 space-y-6 md:grid-cols-2 gap-4 ">
-            <div class="flex flex-col gap-[40px] order-2 md:order-1">
+            <div 
+            data-aos="fade-right"
+            class="flex flex-col gap-[40px] order-2 md:order-1">
                 <div class="flex flex-col gap-[8px]">
                     <h1 class="text-[20px] text-darkGreen leading-[36px] md:text-[32px] font-[600] md:leading-[48px] "> Join Our Team</h1>
                     <p class="text-darkGreen font-[400] leading-[28px] text-[16px]">Treasure Vince Care is currently looking for caring compassionate enthusiastic and knowledgeable care workers to join our team.</p>
@@ -15,7 +17,9 @@
                 </nuxt-link>
             </div>
             <div class="flex flex-col gap-[40px] order-1 md:order-2">
-                <div class="flex flex-col gap-[24px] ">
+                <div 
+                data-aos="flip-up"
+                class="flex flex-col gap-[24px] ">
                     <div class="flex items-center gap-[12px]">
                         <span><img src="/svg/1.svg" /></span>
                         <span class="text-[20px] text-darkGreen font-[600] leading-[32px] md:leading-[36px]">Eligibility</span>
@@ -28,7 +32,9 @@
                      
                     </ul>
                 </div>
-                <div class="flex flex-col gap-[24px] ">
+                <div 
+                data-aos="flip-up"
+                class="flex flex-col gap-[24px] ">
                     <div class="flex items-center gap-[12px]">
                         <span><img src="/svg/2.svg" /></span>
                         <span class="text-[20px] text-darkGreen font-[600] leading-[32px] md:leading-[36px]">Application Process</span>
@@ -39,7 +45,9 @@
                      
                     </ul>
                 </div>
-                <div class="flex flex-col gap-[24px] ">
+                <div 
+                data-aos="flip-up"
+                class="flex flex-col gap-[24px] ">
                     <div class="flex items-center gap-[12px]">
                         <span><img src="/svg/3.svg" /></span>
                         <span class="text-[20px] text-darkGreen font-[600] leading-[32px] md:leading-[36px]">Induction</span>
@@ -50,7 +58,9 @@
                      
                     </ul>
                 </div>
-                <div class="flex flex-col gap-[24px] ">
+                <div 
+                data-aos="flip-up"
+                class="flex flex-col gap-[24px] ">
                     <div class="flex items-center gap-[12px]">
                         <span><img src="/svg/4.svg" /></span>
                         <span class="text-[20px] text-darkGreen font-[600] leading-[32px] md:leading-[36px]">Background Check</span>

@@ -19,7 +19,10 @@
 
           
         </div>
-        <div class="max-w-[1440px] px-[16px] lg:px-[80px] h-[280px] md:h-[480px] custom_bg rounded-[24px]"> 
+        <div 
+        data-aos="fade-up"
+        data-aos-anchor-placement="top-bottom"
+        class="max-w-[1440px] px-[16px] lg:px-[80px] h-[280px] md:h-[480px] custom_bg rounded-[24px]"> 
 
         </div>
     </div>

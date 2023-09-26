@@ -1,5 +1,7 @@
 <template>
-    <div class="bg-darkGreen py-[40px] md:py-[80px] lg:px-[80px] px-[16px] flex flex-col gap-[40px]">
+    <div 
+    data-aos="fade-up"
+    class="bg-darkGreen py-[40px] md:py-[80px] lg:px-[80px] px-[16px] flex flex-col gap-[40px]">
         <div class="max-w-[1440px] lg:px-[80px] flex items-center justify-center">
             <div class="flex flex-col justify-center items-center w-[632px] gap-[40px] ">
                 <div class="flex flex-col items-center flex flex-col gap-[8px] ">
@@ -13,7 +15,9 @@
 
           
         </div>
-        <div class="max-w-[1440px]   h-[280px] md:h-[480px] custom_bg  rounded-[24px]"> 
+        <div 
+        data-aos="fade-up"
+        class="max-w-[1440px]   h-[280px] md:h-[480px] custom_bg  rounded-[24px]"> 
 
         </div>
     </div>

@@ -8,7 +8,9 @@
                         Everything you need to know about Treasure Vince. Can’t find the answer you’re looking for? <span class="underline text-lightGreen">Please chat to our friendly team.</span>
                     </p>
                     <div class="flex flex-col gap-[40px] "> 
-                        <div class="flex items-start  gap-[16px] text-darkGreen">
+                        <div 
+                        data-aos="flip-up"
+                        class="flex items-start  gap-[16px] text-darkGreen">
                             <div class="flex-shrink-0">
                                 <img src="/svg/1.svg" />
                             </div>
@@ -17,7 +19,9 @@
                                 <p class="text-[16px] font-[400]">We offer personalized care services, including personal care, social care, and domestic care, designed to meet your unique needs.</p>
                             </div>
                         </div>
-                        <div class="flex items-start  gap-[16px] text-darkGreen">
+                        <div 
+                        data-aos="flip-up"
+                        class="flex items-start  gap-[16px] text-darkGreen">
                             <div class="flex-shrink-0">
                                 <img src="/svg/2.svg" />
                             </div>
@@ -26,7 +30,9 @@
                                 <p class="text-[16px] font-[400]">Our caregivers undergo strict vetting and training to ensure professionalism, compassion, and expertise in delivering high-quality care.</p>
                             </div>
                         </div>
-                        <div class="flex items-start  gap-[16px] text-darkGreen">
+                        <div 
+                        data-aos="flip-up"
+                        class="flex items-start  gap-[16px] text-darkGreen">
                             <div class="flex-shrink-0">
                                 <img src="/svg/3.svg" />
                             </div>
@@ -35,7 +41,9 @@
                                 <p class="text-[16px] font-[400]">Pricing varies based on care requirements, and we offer competitive rates. We accept various insurance plans and assist you in exploring payment options.</p>
                             </div>
                         </div>
-                        <div class="flex items-start  gap-[16px] text-darkGreen">
+                        <div 
+                        data-aos="flip-up"
+                        class="flex items-start  gap-[16px] text-darkGreen">
                             <div class="flex-shrink-0">
                                 <img src="/svg/4.svg" />
                             </div>
@@ -47,7 +55,9 @@
                     </div>
                 </div>
                 <div>
-                    <div class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg">
+                    <div 
+                    data-aos="zoom-in"
+                    class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg">
 
                     </div>
                 </div>
