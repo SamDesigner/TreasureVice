@@ -1,6 +1,6 @@
 <template>
     <div class="bg-white py-[80px]" >
-        <div class="max-w-[1440px] px-[80px]">
+        <div class="max-w-[1440px] px-[80px] flex">
             <div class="">
                 <div class="w-[576px] flex flex-col gap-[40px]">
                     <div>
