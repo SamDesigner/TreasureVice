@@ -37,7 +37,7 @@
                     data-aos="fade-up"
                     data-aos-duration="3000"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg">
-
+                        <img class="h-[100%] rounded-tl-[28px] rounded-bl-[28px]" src='/img/crotchet_nurse.jpeg' />
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                     data-aos="fade-up"
                     data-aos-duration="3000"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tr-[28px] rounded-br-[28px] custom_bg2">
-
+                        <img class="rounded-tr-[28px] rounded-br-[28px] h-[100%]" src='/img/social_care.jpeg' />
                     </div>
                 </div>
 
@@ -121,7 +121,7 @@
                     <div 
                     data-aos="fade-down-right"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg3">
-
+                        <img class="h-[100%] rounded-tl-[28px] rounded-bl-[28px]" src='/img/helping_nurse.jpeg' />
                     </div>
                 </div>
             </div>
@@ -131,18 +131,17 @@
 
 <style scoped>
     .custom_bg{
-        background: url('/img/crotchet_nurse.jpeg');
+        background: url();
         background-position:center ;
         background-size: cover;
     }
     .custom_bg2{
-        background: url('/img/social_care.jpeg');
+        background: url();
         background-position:center ;
         background-size: cover;
     }
-    .custom_bg3{
-        background: url('/img/helping_nurse.jpeg');
-        background-position:center ;
-        background-size: cover;
+    .custom_bg3 img{
+        object-fit: cover;
+
     }
 </style>

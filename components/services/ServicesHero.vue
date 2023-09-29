@@ -20,7 +20,7 @@
         data-aos="fade-up"
         data-aos-duration="3000"
         class="mx-auto max-w-[1240px] h-[280px] md:h-[480px] custom_bg rounded-[24px]"> 
-
+            
         </div>
     </div>
 </template>
