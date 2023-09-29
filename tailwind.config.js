@@ -12,7 +12,8 @@ module.exports = {
         borderGray:'#606973',
         borderGreen:'#134B13',
         inputGray:'#9CAFA5',
-        darkGray:' #D9D9D9'
+        darkGray:' #D9D9D9',
+        hoverGreen: '#108645'
       },
       backgroundImage:{
         'hero-bg':"url('/img/Hero-bg.png')"

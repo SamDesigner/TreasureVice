@@ -141,4 +141,7 @@
   /* Add a smooth transition effect for smooth appearance */
   transition: all 0.3s ease;
 }
+.router-link-exact-active{
+    color:#04A44C
+}
 </style>

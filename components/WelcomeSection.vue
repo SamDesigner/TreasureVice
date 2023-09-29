@@ -14,8 +14,8 @@
             <div data-aos="zoom-in-up" 
                     data-aos-delay="1100"
                     data-aos-easing="ease-in-out"
-                    class="w-full h-[240px] md:h-[600px] custom_bg">
-
+                    class="w-full h-[240px] md:h-[600px]">
+                        <img src="/img/no_stethoscope.jpeg" />
             </div>
             
             

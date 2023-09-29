@@ -1,13 +1,13 @@
 <template>
     <div class="bg-white py-[56px] md:py-[80px] px-[16px] lg:px-[80px]">
         
-        <div class="max-w-[1440px] grid lg:grid-cols-2 gap-[32px] justify-center items-center">
+        <div class="max-w-[1440px] grid lg:grid-cols-2 gap-[32px] lg:gap-[50px] justify-center items-center">
             <div 
             data-aos="fade-right"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
             class="h-[280px]  md:h-[480px] lg:w-[592px] rounded-3xl custom_bg order-2 md:order-1">
-
+                <img class="h-[100%] rounded-[24px]" src="/img/help.jpeg" />
             </div>
             <div 
             data-aos="zoom-out-left"
@@ -36,7 +36,7 @@
 </template>
 <style scoped>
     .custom_bg{
-        background-image: url('/img/help.jpeg');
+        background-image: url();
         background-position: center;
         background-size: cover;
     }

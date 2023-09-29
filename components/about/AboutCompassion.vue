@@ -1,6 +1,6 @@
 <template>
     <div class="bg-grayBg py-[80px]">
-        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1240px] mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 justify-center items-center">
+        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1240px] mx-auto grid grid-cols-1 gap-[50px] md:grid-cols-2 justify-center items-center">
             <div
             data-aos="fade-right"
             >
@@ -14,15 +14,14 @@
             data-aos="fade-up"
             data-aos-duration="3000"
             class="custom_bg h-[280px] md:h-[480px]  rounded-3xl">
-
+                <img class="h-[100%] rounded-3xl" src="/img/elderly-wheel.jpeg" />
             </div>
         </div>
     </div>
 </template>
 <style scoped>
     .custom_bg{
-        background-image: url('/img/elderly-wheel.jpeg');
-        background-position: center;
-        background-size: cover;
+   
+        
     }
 </style>

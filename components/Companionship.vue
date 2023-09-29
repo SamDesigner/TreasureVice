@@ -1,6 +1,6 @@
 <template>
     <div class="bg-grayBg pt-[80px] lg:px-[80px] ">
-        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1440px]  mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 justify-center items-center">
+        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1440px] lg:gap-[50px] mx-auto grid grid-cols-1 gap-y-[40px]  md:grid-cols-2 justify-center items-center">
             <div
             data-aos="fade-up"
             data-aos-anchor-placement="top-bottom"
@@ -15,8 +15,8 @@
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000" 
-            class="custom_bg h-[280px] md:h-[480px]  rounded-3xl">
-
+            class="custom_bg h-[280px]  md:h-[480px]   rounded-3xl">
+                <img class="h-[100%] rounded-3xl" src="/img/no_stethoscop2.jpeg" />
             </div>
         </div>
         
@@ -25,13 +25,13 @@
                 <div 
                 data-aos="fade-up"
                 data-aos-duration="3000"
-                class="custom_bg2 h-[280px] md:h-[480px]  order-2  md:order-1 rounded-3xl">
-
+                class="custom_bg2 h-[280px] md:h-[480px]   order-2  md:order-1 rounded-3xl">
+                    <img class="h-[100%]" src="/img/old_woman.png" />
                 </div>
                 <div 
                 data-aos="fade-left"
-                data-aos-offset="300"
-                data-aos-duration="400"
+                data-aos-offset="200"
+                data-aos-duration="200"
                 class="flex flex-col gap-10 order-1 md:order-2 ">
                     <div>
                         <h1 class="text-lightGreen text-[18px] font-[400] leading-[28px]">Quality care for people you love</h1>
@@ -55,14 +55,10 @@
 </template>
 
 <style lang="scss">
-    .custom_bg{
-        background: url('/img/old_man.png');
-        background-position: center;
-        background-size: cover;
+    .custom_bg img{
+        object-fit:cover ;
     }
-    .custom_bg2{
-        background:url('/img/old_woman.png');
-        background-position: center;
-        background-size: cover;
+    .custom_bg2 img{
+        object-fit: cover;
     }
 </style>

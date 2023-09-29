@@ -5,7 +5,15 @@
                 <div class="flex flex-col items-center flex flex-col gap-[8px]">
                     <h3 class="text-lightGreen">About Us</h3>
                     <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center">Who We Are At Treasure Vince</h1>
-                    <p class="font-[16px] text-white text-center leading-[28px] flex self-stretch ">Treasure Vince is an independent, privately owned provider o Domiciliary/homecare support to clients in the community to live independently in their own homes.</p>
+                    <div class="flex flex-col gap-[8px] items-center justify-center">
+                        <p class="font-[16px] text-white text-center leading-[28px] flex self-stretch ">
+                            At Treasure Vince Care, our vision is to treat all our service users with dignity and respect. With this in mind, we thrive to always provide the best quality care and support that is person centered to all your needs.
+
+
+                        </p>
+                        <p class="font-[16px] text-white text-center font-bold leading-[28px]  ">From our family to your family, we are honoured to care for your loved ones.</p>
+                    </div>
+         
                 </div>
                <nuxt-link class="w-full md:w-fit">
                     <button class="text-white rounded-[1000px] bg-lightGreen px-[32px] py-[14px] w-full md:w-fit flex justify-center items-center gap-[8px] border border-white">
@@ -22,15 +30,14 @@
         <div 
         data-aos="fade-up"
         data-aos-anchor-placement="top-bottom"
-        class="max-w-[1440px] px-[16px] lg:px-[80px] h-[280px] md:h-[480px] custom_bg rounded-[24px]"> 
-
+        class="max-w-[1440px]  lg:px-[0px] h-[280px] md:h-[480px] custom_bg "> 
+            <img class="h-[100%] w-[100%] rounded-[24px]" src="/img/about_hero.jpeg">
         </div>
     </div>
 </template>
 <style scoped>
     .custom_bg{
-        background-image: url('/img/about_hero.jpeg');
-        background-position: center;
-        background-size: cover;
+
+        
     }
 </style>
