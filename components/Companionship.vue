@@ -2,8 +2,9 @@
     <div class="bg-grayBg pt-[80px] lg:px-[80px] ">
         <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1440px] lg:gap-[50px] mx-auto grid grid-cols-1 gap-y-[40px]  md:grid-cols-2 justify-center items-center">
             <div
-            data-aos="fade-up"
-            data-aos-anchor-placement="top-bottom"
+                 data-aos="fade-right"
+                data-aos-offset="200"
+                data-aos-duration="100"
             >
                 <div class="text-white space-y-4 text-center md:text-left">
                     <h1 class="text-lightGreen">Who We Are</h1>
@@ -12,9 +13,9 @@
                 </div>
             </div>
             <div
-            data-aos="flip-left"
-            data-aos-easing="ease-out-cubic"
-            data-aos-duration="2000" 
+                data-aos="fade-left"
+                data-aos-offset="200"
+                data-aos-duration="200"
             class="custom_bg h-[280px]  md:h-[480px]   rounded-3xl">
                 <img class="h-[100%] rounded-3xl" src="/img/no_stethoscop2.jpeg" />
             </div>

@@ -16,7 +16,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      {  rel: "icon", type: "image/png", href: "/favicon.ico"}
     ]
   },
 
@@ -30,7 +30,8 @@ export default {
   plugins: [
     { src: "@/plugins/aos",  ssr: false, mode: "client" },
     { src: '~/plugins/countrycode.ts', mode: 'client' },
-    {src:'~/plugins/swiper.ts'}
+    
+
   ],
 
 

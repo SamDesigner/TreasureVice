@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <div class="flex flex-col items-center justify-center">
         <div class="max-w-[1440px] lg:px-[80px]  px-[16px] pt-[40px] md:pt-[80px] space-y-7">
             <div 
-            data-aos="fade-down"
+            data-aos="fade-up"
             data-aos-easing="linear"
             data-aos-duration="1500"
             class=" lg:w-[956px]">
@@ -11,9 +11,9 @@
                     We provide personalized home care to adults under and above 65 years to enable them to maintain a comfortable and independent living with dignity.
                 </p>
             </div>
-            <div data-aos="zoom-in-up" 
-                    data-aos-delay="1100"
-                    data-aos-easing="ease-in-out"
+            <div data-aos="fade-up" 
+                data-aos-easing="linear"
+                data-aos-duration="1500"
                     class="w-full h-[240px] md:h-[600px]">
                         <img src="/img/no_stethoscope.jpeg" />
             </div>
@@ -22,9 +22,9 @@
         </div>
         <div class="max-w-[1440px] mx-auto lg:px-[80px] py-[80px] px-[16px] flex flex-col gap-[64px]">
             <div
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-offset="300"
-            data-aos-easing="ease-in-sine"
+            data-aos-duration="1500"
             class="flex justify-center items-center">
                 <div class="text-center flex flex-col justify-center items-center">
                     <p class="text-primary">What we do</p>
@@ -36,8 +36,9 @@
             </div>
             <div class=" flex flex-col gap-[40px] md:flex-row md:justify-between gap-4">
                 <div 
-                data-aos="fade-right"
+                data-aos="fade-down"
                 data-aos-offset="300"
+                data-aos-duration="300"
                 data-aos-easing="ease-in-sine"
                 class="lg:w-[404px] space-y-3">
                     <div>
@@ -50,8 +51,9 @@
                 </div>
                 <div 
                 data-aos="fade-down"
-                data-aos-easing="linear"
-                data-aos-duration="1500"
+                data-aos-offset="300"
+                data-aos-duration="500"
+                data-aos-easing="ease-in-sine"
                 class="lg:w-[404px] space-y-3">
                     <div>
                         <img src='/svg/user-star.svg' />
@@ -62,10 +64,10 @@
                     </p>
                 </div>
                 <div 
-                data-aos="fade-left"
-               
+                data-aos="fade-down"
                 data-aos-offset="300"
-                data-aos-duration="500"
+                data-aos-duration="700"
+                data-aos-easing="ease-in-sine"
                 class="lg:w-[404px]  space-y-3">
                     <div>
                         <img src='/svg/verified.svg' />

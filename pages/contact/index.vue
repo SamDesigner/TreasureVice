@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <div class="overflow-x-hidden">
         <HeaderGreen />
         <ContactHero />
-        <Contact />
+        <Contact  />
         <Footer />
     </div>
 </template>

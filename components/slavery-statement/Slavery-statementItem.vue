@@ -396,12 +396,19 @@
                     </li>
                     <li>
                         How personal data is to be used;
-                    </li>
+                    </li>gi
                     <li>
                         The parties (internal and/or external) who are to be consulted;
                     </li>
                     <li>The necessity and proportionality of the data processing with respect to the purpose(s) for which it is being processed;</li>
+                    <li>Risks posed to data subjects;</li>
+                    <li>Risks posed both within and to the Service; and</li>
+                    <li>Proposed measures to minimise and handle identified risks.</li>
                 </ul>
+                <p>
+                    17.3 Where applicable we will use the ICO Code of Practice on Impact Assessments.
+                </p>
+                
             </div>  
     </div>
 </template>

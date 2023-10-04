@@ -1,6 +1,7 @@
 
 <template>
-    <div class="py-[40px] lg:py-[80px] max-w-[1440px] mx-auto bg-grayBg flex flex-col gap-[40px]">
+    <div class="bg-grayBg ">
+    <div class="py-[40px] lg:py-[80px] max-w-[1440px] mx-auto flex flex-col gap-[40px]">
         <div class="flex justify-center">
             <div class="flex flex-col gap-[8px] items-center">
                 <h3 class="text-lightGreen text-[14px] font-[400] leading-[24px] md:leading-[28px] md:text-[18px]">What we do</h3>
@@ -84,6 +85,7 @@
             </Swiper>        
                 
             </div>
+        </div>
         </div>
     </div>
 </template>

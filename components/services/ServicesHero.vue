@@ -27,8 +27,8 @@
 <style scoped>
     .custom_bg{
     
-        background: url('/img/ebony_nurse.jpeg');
-        background-position: top;
+        background: url('/img/services_hero.png');
+        background-position: center;
         background-size: cover;
     }
 </style>

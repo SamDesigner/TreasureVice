@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white py-[56px] md:py-[80px] px-[16px] lg:px-[80px]">
+    <div class="bg-white py-[56px] md:py-[80px] px-[16px] lg:px-[80px] flex justify-center items-center"> 
         
         <div class="max-w-[1440px] grid lg:grid-cols-2 gap-[32px] lg:gap-[50px] justify-center items-center">
             <div 
@@ -10,7 +10,9 @@
                 <img class="h-[100%] rounded-[24px]" src="/img/help.jpeg" />
             </div>
             <div 
-            data-aos="zoom-out-left"
+            data-aos="fade-left"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine"
             class="flex flex-col gap-[40px] order-1 md:order-2">
                 <div>
                     <h3 class="text-lightGreen text-[18px]">More About Us</h3>

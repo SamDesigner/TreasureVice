@@ -11,8 +11,9 @@
                 </div>
             </div>
             <div 
-            data-aos="fade-up"
-            data-aos-duration="3000"
+            data-aos="fade-left"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine"
             class="custom_bg h-[280px] md:h-[480px]  rounded-3xl">
                 <img class="h-[100%] rounded-3xl" src="/img/elderly-wheel.jpeg" />
             </div>

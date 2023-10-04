@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-darkGreen py-[40px] md:py-[80px] lg:px-[80px] px-[16px] flex flex-col gap-[40px]">
-        <div class="max-w-[1440px] lg:px-[80px] flex items-center justify-center">
+    <div class="bg-darkGreen py-[40px] md:py-[80px] lg:px-[80px] px-[16px] flex flex-col items-center gap-[40px]">
+        <div class="max-w-[1440px] lg:w-[1280px] flex items-center justify-center ">
             <div class="flex flex-col justify-center items-center w-[632px] gap-[40px] ">
                 <div class="flex flex-col items-center flex flex-col gap-[8px]">
                     <h3 class="text-lightGreen">About Us</h3>
@@ -30,7 +30,7 @@
         <div 
         data-aos="fade-up"
         data-aos-anchor-placement="top-bottom"
-        class="max-w-[1440px]  lg:px-[0px] h-[280px] md:h-[480px] custom_bg "> 
+        class="w-full lg:w-[1280px]  lg:px-[0px] h-[280px] md:h-[480px] custom_bg "> 
             <img class="h-[100%] w-[100%] rounded-[24px]" src="/img/about_hero.jpeg">
         </div>
     </div>

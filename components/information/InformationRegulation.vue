@@ -1,5 +1,6 @@
 <template>
-    <div class="bg-grayBg pt-[40px] md:pt-[80px] px-[16px] lg:px-[0px] flex flex-col gap-[32px] lg:gap-[64px]">
+    <div class="flex items-center justify-center bg-grayBg">
+    <div class=" pt-[40px] md:pt-[80px] px-[16px] lg:px-[0px] flex flex-col gap-[32px] lg:gap-[64px]">
         <div class="max-w-[1440px] lg:px-[80px] flex flex-col gap-[40px] md:flex-row md:gap-[64px]">
             <div 
             data-aos="fade-right"
@@ -23,25 +24,36 @@
 
             </div>
         </div>
-        <div class=" md:px-[80px] pt-[64px] md:pt-[80px] pb-[24px] md:pb-[40px] flex flex-col gap-[40px] md:gap-[64px]">
+        <div class="  lg:px-[80px] pt-[64px] md:pt-[80px] pb-[24px] md:pb-[40px] flex flex-col gap-[40px] md:gap-[64px]">
             <div 
             data-aos="fade-right"   
             class="flex flex-col gap-[8px] w-full items-center justify-center">
                 <div class="text-darkGreen md:w-[612px]">
-                    <h1 class="text-[20px] md:text-[32px] font-[600] leading-[36px] md:leading-[48px] text-center">MODERN SLAVERY STATEMENT AND HUMAN TRAFFICKING</h1>
-                    <p class="text-[16px] leading-[28px] font-[400] text-center">Modern slavery blights our society and harms people all over the world. Slavery continues today in every country in the world. Women forced into prostitution. People were forced to work in agriculture, domestic work, and factories.</p>
+                    <h1 class="text-[20px] md:text-[32px] font-[600] leading-[36px] md:leading-[48px] text-center">Our Brochure</h1>
+
                 </div>
             </div>
 
             <div 
             data-aos="zoom-in"
-            class="flex justify-center items-center">
-                <div class="h-[280px] md:h-[360px] w-full md:w-[720px] bg-darkGray">
+            class="flex  justify-center items-center bg-black">
+                <div class="h-[280px] md:h-[552px]   ">
+                    <img class="custom_brochure" src="/img/brochure.png" />
+                </div>
+                
             </div>
-           
+            <div @click="downloadBrochure" class="flex justify-center">
+                <button class="py-[14px] px-[32px] bg-lightGreen text-white rounded-[1000px] flex items-center gap-[8px]">
+                    <span>
+                    Download our Brochure
+                    </span>
+                    <img src="/svg/download.svg" />
+                
+                </button>
             </div>
         </div>
        
+    </div>
     </div>
 </template>
 <style  scoped>
@@ -50,4 +62,24 @@
         background-position: center;
         background-size: cover;
     }
+    .custom_brochure{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
 </style>
+<script>
+        export default{
+            methods: {
+                downloadBrochure(){
+                    const filePath = '/pdf/brochure.pdf'
+
+                    const link = document.createElement('a');
+                    link.href = filePath;
+                    link.download = 'brochure.pdf'
+
+                    link.click()
+                }
+            }
+        }
+</script>

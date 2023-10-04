@@ -1,7 +1,11 @@
 <template>
-    <div class="bg-white py-[80px] px-[16px]" >
+    <div class="bg-white py-[80px] px-[16px] flex items-center justify-center" >
         <div class="max-w-[1440px]  lg:px-[80px] flex flex-col gap-[40px] lg:flex-row justify-between">
-            <div class="">
+            <div
+            data-aos="fade-right"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine"
+            class="">
                 <div class="flex-1 lg:w-[576px] flex flex-col gap-[40px]">
                     <div>
                         <h1 class="text-darkGreen leading-[36px] md:leading-[48px] text-[20px] md:text-[32px] font-[600]">Let us give you a call</h1>
@@ -17,13 +21,19 @@
                 </div>
                 
             </div>
-            <div>
+            <div
+            data-aos="fade-left"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine"
+            >
                 <div class="md:flex-1 lg:w-[576px] flex flex-col gap-[40px]">
                     <div class="flex flex-col gap-[12px]">
                         <h1 class="text-darkGreen font-[600] text-[20px] md:text-[32px] leading-[36px] md:leading-[48px]">Get In Touch</h1>
                         <p class="text-[16px] font-[400] leading-[24px] text-darkGreen">Our friendly team would love to hear from you</p>
                     </div>
-                    <div class="flex flex-col gap-[20px]">
+                    <div 
+                    
+                    class="flex flex-col gap-[20px]">
                         <div class="flex flex-col md:flex-row gap-[20px]">
                             <div class="flex flex-col gap-[4px] md:w-1/2">
                                 <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">First Name</label>
@@ -69,7 +79,10 @@
                         <div>
                             <div class="flex flex-col gap-[4px]">
                                 <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Message</label>
-                                <text-area  placeholder="Leave us a message" class="border h-[134px] text-black border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]"></text-area> 
+                                <!-- <text-area class="border h-[134px] text-black border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]"  placeholder="Leave us a message" ></text-area>  -->
+                                <textarea id="w3review" name="w3review" rows="4" cols="50" placeholder="Leave us a message" class="h-[134px] text-black border border-inputGray text-[16px] rounded-[8px] py-[16px] px-[24px] ">
+
+                                </textarea>
                             </div>
                         </div>
 
