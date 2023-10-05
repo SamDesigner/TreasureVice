@@ -30,7 +30,7 @@ export default {
   plugins: [
     { src: "@/plugins/aos",  ssr: false, mode: "client" },
     { src: '~/plugins/countrycode.ts', mode: 'client' },
-    
+    { src: '~/plugins/primevue.ts', ssr: false }
 
   ],
 

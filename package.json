@@ -24,6 +24,7 @@
     "nuxt-swiper": "^1.2.2",
     "pinia": "^2.1.6",
     "primeicons": "^6.0.1",
+    "primevue": "^3.35.0",
     "sass": "^1.63.6",
     "scrollreveal": "^4.0.9",
     "vue-country-region-select": "^2.0.16",
