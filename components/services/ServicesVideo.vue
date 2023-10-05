@@ -6,10 +6,10 @@
             </video>
             <div class="custom-controls" :class="{ 'visible': showControlButtons }">
                 <div class="play-button" @click="tooglePlayPause" v-if="!videoPlaying">
-                    <img src="/svg/playy.svg" />
+                    <img src="/svg/PlayIcon.svg" />
                 </div>
                 <div class="pause-button" @click="tooglePlayPause" v-if="videoPlaying">
-                    <i class="pi pi-pause font-[700] text-lightGreen"></i>
+                    <img src="/svg/pause.svg" />
                 </div>
             </div>
         </div>
@@ -59,14 +59,10 @@
 
 <style scoped>
     .play-button{
-        background: white;
-        color:white;
-        padding: 20px;
+    
     }
     .pause-button{
-      background: white;
-        padding: 20px 24px;
-        color:white;
+      
     }
     .custom-controls {
         position: absolute;
