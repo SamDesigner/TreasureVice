@@ -4,7 +4,7 @@
             <div
                  data-aos="fade-right"
                 data-aos-offset="200"
-                data-aos-duration="100"
+                data-aos-duration="1000"
             >
                 <div class="text-white space-y-4 text-center md:text-left">
                     <h1 class="text-lightGreen">Who We Are</h1>
@@ -15,7 +15,7 @@
             <div
                 data-aos="fade-left"
                 data-aos-offset="200"
-                data-aos-duration="200"
+                data-aos-duration="1200"
             class="custom_bg h-[280px]  md:h-[480px]   rounded-3xl">
                 <img class="h-[100%] rounded-3xl" src="/img/no_stethoscop2.jpeg" />
             </div>
@@ -32,7 +32,7 @@
                 <div 
                 data-aos="fade-left"
                 data-aos-offset="200"
-                data-aos-duration="200"
+                data-aos-duration="1200"
                 class="flex flex-col gap-10 order-1 md:order-2 ">
                     <div>
                         <h1 class="text-lightGreen text-[18px] font-[400] leading-[28px]">Quality care for people you love</h1>

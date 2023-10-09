@@ -396,7 +396,7 @@
                     </li>
                     <li>
                         How personal data is to be used;
-                    </li>gi
+                    </li>
                     <li>
                         The parties (internal and/or external) who are to be consulted;
                     </li>
@@ -408,7 +408,42 @@
                 <p>
                     17.3 Where applicable we will use the ICO Code of Practice on Impact Assessments.
                 </p>
-                
+                <ol class="list-decimal">
+                    <li>
+                        EMPLOYMENT CONTRACTS
+                    </li>
+                    <li>
+                        The manager must ensure that every employee’s contract of employment informs the employee, in broad terms, how their personal data will be used, and obtain their agreement to the collection, processing, and holding of their personal data for such use.
+                    </li>
+                    <li>
+
+                    </li>
+                    <li>
+                        The Service shall ensure that all personal data collected, held, and processed is kept secure and protected against unauthorised or unlawful processing and against accidental loss, destruction, or damage.
+                    </li>
+                </ol>
+                <p>
+                    20.0 ACCOUNTABILITY AND RECORD KEEPING
+                </p>
+                <p>
+                    20.1 The manager will ensure that the Service complies with the legal requirements of General Data Protection Regulation. The Service we will carry out regular monitoring and auditing of our data protection policies and regularly review the effectiveness of data handling and security controls.
+                </p>
+                <p>
+                    20.2 The nominated person (insert name) responsible for data protection shall be responsible for overseeing the implementation of this Policy and for monitoring compliance with this Policy, the Service’s other data protection-related policies, and with the GDPR and other applicable data protection legislation.
+                </p>
+                <p>
+                    20.3 The Service is responsible for keeping:
+                </p>
+                <ul class="list-disc">
+                    <li>Name and details of the Service, person responsible for data protection and any applicable third-party data processors;</li>
+                    <li>The purposes for which the Service collects, holds, and processes personal data;</li>
+                    <li>Details of the categories of personal data collected, held, and processed by the Service, and the categories of data subject to which that personal data relates;</li>
+                    <li>Details of any transfers of personal data to non-EEA countries including all mechanisms and security safeguards;</li>
+                    <li>Details of how long personal data will be retained by the Service; and</li>
+                    <li>Detailed descriptions of all technical and organisational measures taken by the Service to ensure the security of personal data.</li>
+                </ul>
+                <p>21.0 STAFF TRAINING</p>
+                <p>(See Staff Training Policy Ref: GDPR 16).</p>
             </div>  
     </div>
 </template>

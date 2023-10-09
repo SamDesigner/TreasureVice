@@ -25,7 +25,7 @@
                         <nuxt-link to="/services">Services</nuxt-link>
                         <nuxt-link to="/contact">Contact</nuxt-link>
                         <nuxt-link to="/information">Useful Information</nuxt-link>
-                            
+                        <nuxt-link to="/slavery-statement">Slavery Statement</nuxt-link>    
                     </div>
                 </div>
                 <div class="pt-[40px] pb-[8px] text-[14px]">

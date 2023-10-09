@@ -1,7 +1,7 @@
 <template>
     <div class=" flex items-center justify-center px-[16px] rounded-[24px] py-[40px]   lg:w-[1280px] mx-auto ">
         <div class="  w-full relative rounded-[24px]">
-            <video controls ref="videoPlayer" class="rounded-[24px] w-full "  @mouseover="showControls" @mouseout="hideControls">
+            <video autoplay  ref="videoPlayer" class="rounded-[24px] w-full "  @mouseover="showControls" @mouseout="hideControls">
                 <source class="w-full" :src="videoSource" type="video/mp4">
             </video>
             <div class="custom-controls" :class="{ 'visible': showControlButtons }">
