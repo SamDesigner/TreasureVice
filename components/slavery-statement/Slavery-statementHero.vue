@@ -3,16 +3,9 @@
         <div class="max-w-[1440px] lg:px-[80px] flex items-center justify-center">
             <div class="flex flex-col justify-center items-center w-[632px] gap-[40px] ">
                 <div class="flex flex-col items-center flex flex-col gap-[8px]">
-                    <h3 class="text-lightGreen">About Us</h3>
-                    <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center">Who We Are At Treasure Vince</h1>
-                    <div class="flex flex-col gap-[8px] items-center justify-center">
-                        <p class="font-[16px] text-white text-center leading-[28px] flex self-stretch ">
-                            At Treasure Vince Care, our vision is to treat all our service users with dignity and respect. With this in mind, we thrive to always provide the best quality care and support that is person centered to all your needs.
-
-
-                        </p>
-                        <p class="font-[16px] text-white text-center font-bold leading-[28px]  ">From our family to your family, we are honoured to care for your loved ones.</p>
-                    </div>
+                    <h3 class="text-lightGreen">Useful Information</h3>
+                    <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center">Mordern Slavery Statement</h1>
+                  
          
                 </div>
                <nuxt-link class="w-full md:w-fit">
@@ -37,8 +30,8 @@
 </template>
 <style scoped>
     .custom_bg{
-        background: url('/img/elderly-wheel.jpeg');
-        background-position: top;
+        background: url('/img/mordernslavery.jpeg');
+        background-position: center;
         background-size: cover;
     }
 </style>

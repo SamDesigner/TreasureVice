@@ -1,5 +1,5 @@
 <template>
-    <div class="py-[80px] px-[80px] text-darkGreen">
+    <div class="py-[80px] px-[16px] lg:px-[80px] text-darkGreen">
         <h3 class="text-[32px] font-[600] text-darkGreen">
             Our Modern Slavery Statement
         </h3>
