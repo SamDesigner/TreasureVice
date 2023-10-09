@@ -3,7 +3,7 @@
         <HeaderGreen /> 
         <ServicesHero />
         <ServicesItemHeader />
-        <ServicesVideo />
+     
         <ServicesItem />
         <Partners />
         <Footer />

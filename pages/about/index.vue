@@ -3,6 +3,7 @@
         <HeaderGreen />
         <AboutHero />
         <AboutUs />
+        <ServicesVideo />
         <Partners />
         <AboutGuaranty />
         <AboutCompassion />
