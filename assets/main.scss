@@ -2,3 +2,22 @@
 body{
     font-family: 'Archivo', sans-serif;
 }
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Style the scrollbar track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Style the scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+    background: #003E29;
+    border-radius: 6px;
+  }
+  
+  /* Style the scrollbar thumb on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #057952;
+  }

@@ -20,7 +20,7 @@
             
             
         </div>
-        <div class="max-w-[1440px] mx-auto lg:px-[80px] py-[80px] px-[16px] flex flex-col gap-[64px]">
+        <div class="lg:max-w-[1440px] mx-auto lg:px-[80px] py-[80px] px-[16px] flex flex-col gap-[64px]">
             <div
             data-aos="fade-up"
             data-aos-offset="300"
@@ -34,7 +34,7 @@
                     </p>
                 </div>
             </div>
-            <div class=" flex flex-col gap-[40px] md:flex-row md:justify-between gap-4">
+            <div class=" flex flex-col gap-[20px] md:flex-row md:justify-between gap-4">
                 <div 
                 data-aos="fade-down"
                 data-aos-offset="300"

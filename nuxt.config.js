@@ -30,7 +30,8 @@ export default {
   plugins: [
     { src: "@/plugins/aos",  ssr: false, mode: "client" },
     { src: '~/plugins/countrycode.ts', mode: 'client' },
-    { src: '~/plugins/primevue.ts', ssr: false }
+    { src: '~/plugins/primevue.ts', ssr: false },
+
 
   ],
 
@@ -54,7 +55,9 @@ export default {
     "nuxt-swiper",
     "@pinia/nuxt",
     "nuxt-gtag",
-    'vue3-carousel-nuxt'
+    'vue3-carousel-nuxt',
+  
+   
   ],
   carousel: {
     prefix: 'MyPrefix'
