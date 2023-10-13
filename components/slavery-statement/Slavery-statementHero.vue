@@ -8,13 +8,7 @@
                   
          
                 </div>
-               <nuxt-link class="w-full md:w-fit">
-                    <button class="text-white rounded-[1000px] bg-lightGreen px-[32px] py-[14px] w-full md:w-fit flex justify-center items-center gap-[8px] border border-white">
-                        
-                        Book an appointment
-                        <i class="pi pi-arrow-right text-xs"></i>
-                    </button>
-               </nuxt-link>
+               
                
             </div>
 
@@ -30,7 +24,7 @@
 </template>
 <style scoped>
     .custom_bg{
-        background: url('/img/mordernslavery.jpeg');
+        background: url('/img/slaveryhero.png');
         background-position: center;
         background-size: cover;
     }

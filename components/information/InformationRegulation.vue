@@ -14,16 +14,10 @@
             <div 
             data-aos="zoom-out"
             class="lg:w-[540px] md:flex-1 h-[280px] md:h-[332px] bg-darkGray">
-
+                <img src="/img/cqcregulation.png" />
             </div>
         </div>
-        <div 
-        data-aos="zoom-in"
-        class="max-w-[1440px] lg:px-[80px] ">
-            <div class=" h-[280px] md:h-[552px]  custom_bg  ">
-
-            </div>
-        </div>
+      
         <div class="  lg:px-[80px] pt-[64px] md:pt-[80px] pb-[24px] md:pb-[40px] flex flex-col gap-[40px] md:gap-[64px]">
             <div 
             data-aos="fade-right"   
@@ -42,7 +36,7 @@
                 </div>
                 
             </div>
-            <div @click="downloadBrochure" class="flex justify-center">
+            <div @click='downloadBrochure' class="flex justify-center">
                 <button class="py-[14px] px-[32px] bg-lightGreen text-white rounded-[1000px] flex items-center gap-[8px]">
                     <span>
                     Download our Brochure

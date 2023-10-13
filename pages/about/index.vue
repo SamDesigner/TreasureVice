@@ -3,11 +3,12 @@
         <HeaderGreen />
         <AboutHero />
         <AboutUs />
-        <ServicesVideo />
+        <!-- <ServicesVideo /> -->
         <Partners />
-        <AboutGuaranty />
+        <!-- <AboutGuaranty /> -->
         <AboutCompassion />
-        <TeamForm />
+        <AboutGallery />
+        <!-- <TeamForm /> -->
         <Footer />
     </div>
 </template>

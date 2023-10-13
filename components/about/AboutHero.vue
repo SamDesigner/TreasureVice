@@ -31,13 +31,15 @@
         data-aos="fade-up"
         data-aos-anchor-placement="top-bottom"
         class="w-full lg:w-[1280px]  lg:px-[0px] h-[280px] md:h-[480px] custom_bg "> 
-            <img class="h-[100%] w-[100%] rounded-[24px]" src="/img/about_hero.jpeg">
+            
         </div>
     </div>
 </template>
 <style scoped>
     .custom_bg{
-
+        background: url("/img/smiling_age.jpeg");
+        background-position: top;
+        background-size: cover;
         
     }
 </style>
