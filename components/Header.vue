@@ -11,6 +11,7 @@
                     <nuxt-link to="/">Home</nuxt-link>
                     <nuxt-link to="/about">About us</nuxt-link>
                     <nuxt-link to="/services">Services</nuxt-link>
+                    <nuxt-link to="/candidates">Candidates</nuxt-link>
                     <nuxt-link to="/contact">Contact us</nuxt-link>
                 </div>
                 <div class="hidden lg:flex" >
@@ -36,6 +37,7 @@
                     <nuxt-link to="/">Home</nuxt-link>
                     <nuxt-link to="/about">About us</nuxt-link>
                     <nuxt-link to="/services">Services</nuxt-link>
+                    <nuxt-link to="/candidates">Candidates</nuxt-link>
                     <nuxt-link to="/contact">Contact us</nuxt-link>
                     <nuxt-link>
                         <div class=" bg-lightGreen text-white py-2 px-4 rounded-3xl flex items-center gap-3 ">

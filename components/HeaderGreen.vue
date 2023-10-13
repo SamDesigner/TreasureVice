@@ -4,13 +4,14 @@
           
             <nav class=" mx-auto max-w-[1440px] px-[16px] lg:px-[80px]    flex justify-between items-center">
                 <nuxt-link to="/">
-                    <img src="/svg/logo_green.svg" />
+                    <img class="h-[70px]" src="/svg/darkgreen_icon.svg" />
                 </nuxt-link>
                 
                 <div class="hidden md:flex items-center space-x-8">
                     <nuxt-link to="/">Home</nuxt-link>
                     <nuxt-link to="/about">About us</nuxt-link>
                     <nuxt-link to="/services">Services</nuxt-link>
+                    <nuxt-link to="/candidates">Candidates</nuxt-link>
                     <nuxt-link to="/contact">Contact us</nuxt-link>
                 </div>
                 <div class="hidden lg:flex" >
@@ -36,6 +37,7 @@
                     <nuxt-link to="/">Home</nuxt-link>
                     <nuxt-link to="/about">About us</nuxt-link>
                     <nuxt-link to="/services">Services</nuxt-link>
+                    <nuxt-link to="/candidates">Candidates</nuxt-link>
                     <nuxt-link to="/contact">Contact us</nuxt-link>
                     <nuxt-link>
                         <div class=" bg-lightGreen text-white py-2 px-4 rounded-3xl flex items-center gap-3 ">
@@ -133,7 +135,7 @@
         top: 0;
         left: 0;
         right: 0;
-       
+       padding: 5px;
         z-index:1000;
         background-color:#003E29;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);

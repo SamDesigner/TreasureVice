@@ -163,7 +163,7 @@
         }
     },
     async created() {
-        const url = 'http://dev-tgpc-backend.eu-west-2.elasticbeanstalk.com/generic-apis/all-enums';
+        const url = 'https://dev.tgpcmedia.com/generic-apis/all-enums';
         try {
             const response = await axios.get(url);
             console.log(response.data)
@@ -176,7 +176,7 @@
     },
     methods: {
         async submitForm(){
-            const url = 'http://dev-tgpc-backend.eu-west-2.elasticbeanstalk.com/contact/create';
+            const url = 'https://dev.tgpcmedia.com/contact/create';
             try {
                 const response = await axios.post(url, this.formData);
                 console.log(response.data)

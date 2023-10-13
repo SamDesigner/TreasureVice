@@ -18,7 +18,7 @@
             <div class="w-full mx-auto px-[16px] lg:px-[80px]  max-w-[1440px]">
                 <div class="flex flex-col gap-[40px] md:flex-row items-center justify-between px-[20px] lg:px-[0px]"> 
                     <div>
-                        <img src="/svg/footer_logo.svg" />
+                        <img class="h-[40px] " src="/img/footer_icon.png" />
                     </div>
                     <div class=" flex flex-col md:flex-row items-center justify-center text-white  md:space-y-0 gap-[24px] text-[14px]">
                         <nuxt-link to="/about">About</nuxt-link>

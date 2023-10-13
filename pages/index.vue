@@ -5,6 +5,8 @@
     <WelcomeSection />
     <Companionship />
     <Partners />
+    <Banner />
+    <Benefits />
     <FeaturedServices />
     <Footer />
   </div>

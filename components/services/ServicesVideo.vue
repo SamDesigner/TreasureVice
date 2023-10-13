@@ -1,5 +1,5 @@
 <template>
-    <div class=" flex items-center justify-center px-[16px]  rounded-[24px] py-[40px]   lg:w-[1280px] mx-auto ">
+    <div class=" flex items-center justify-center   rounded-[24px] py-[40px]   lg:w-[1280px] mx-auto ">
         <div class="  w-full relative rounded-[24px]">
             <video  autoplay  ref="videoPlayer" class="rounded-[24px] w-full "  @mouseover="showControls" @mouseout="hideControls">
                 <source class="w-full" :src="videoSource" type="video/mp4">
