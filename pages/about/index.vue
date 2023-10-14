@@ -4,11 +4,12 @@
         <AboutHero />
         <AboutUs />
         <!-- <ServicesVideo /> -->
-        <Partners />
+       
         <!-- <AboutGuaranty /> -->
         <AboutCompassion />
         <AboutGallery />
         <!-- <TeamForm /> -->
+        <Partners />
         <Footer />
     </div>
 </template>

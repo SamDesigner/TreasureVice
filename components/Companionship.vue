@@ -40,7 +40,7 @@
                         <p class="text-darkGreen text-[16px] leading-[28px]">We go beyond caregiving by providing companionship and engaging activities to combat isolation and enhance your quality of life.</p>
                     </div>
                   
-                    <nuxt-link>
+                    <nuxt-link to="/contact">
                         <button class=" bg-lightGreen text-white w-full md:w-auto py-[14px] px-[32px] w-auto rounded-3xl flex items-center justify-center gap-[8px] ">
                             <span>Book an appointment</span>
                             <i class="pi pi-arrow-right text-xs"></i>

@@ -26,7 +26,7 @@
                                 <img class="h-full w-full fit_img" src="/img/grid3.png" />
                             </div>
                             <div class="lg:w-[416px] h-[234px]">
-                                <img class="h-full w-full fit_img" src="/img/grid4.png" />
+                                <img class="h-full w-full fit_img" src="/img/asian_helper.png" />
                             </div>
                         </div>
                         <div>

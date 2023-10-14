@@ -4,11 +4,12 @@
     <HeroSection />
     <WelcomeSection />
     <Companionship />
-    <Partners />
+    <!-- <Partners /> -->
     <Banner />
     <Benefits />
     <!-- <FeaturedServices /> -->
     <Vision />
+    <Partners />
     <Footer />
   </div>
 </template>

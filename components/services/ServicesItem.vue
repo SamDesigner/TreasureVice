@@ -121,7 +121,7 @@
                     <div 
                     data-aos="fade-left"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg3">
-                        <img class="h-[100%] rounded-tl-[28px] rounded-bl-[28px]" src='/img/helping_nurse.jpeg' />
+                        <img class="h-[100%] rounded-tl-[28px] rounded-bl-[28px]" src='/img/carousel_3.jpeg' />
                     </div>
                 </div>
             </div>

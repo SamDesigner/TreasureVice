@@ -9,8 +9,11 @@
                     <h1 class=" text-[32px] lg:text-[56px] leading-[48px] lg:leading-[72px] lg:w-[960px] gap-[40px] text-darkGreen font-bold">
                         Treasure Vince- Home Care Agency, Supported Living & Recruitment.
                     </h1>
-                    <button class="bg-lightGreen text-white py-[14px] px-[32px] rounded-3xl w-fit inline-block whitespace-nowrap">Book an appointment <span><i class="pi pi-arrow-right text-xs"></i></span></button>
-                </div>
+                    <Nuxt-link to="/contact">
+                        <button class="bg-lightGreen text-white py-[14px] px-[32px] rounded-3xl w-fit inline-block whitespace-nowrap">Book an appointment <span><i class="pi pi-arrow-right text-xs"></i></span></button>
+                
+                    </Nuxt-link>
+                </div>    
                
              
             </div>
