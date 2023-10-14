@@ -89,12 +89,12 @@
                                 <div class="flex flex-col gap-[4px]">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Phone number</label>
                                     <div class="border border-inputGray flex items-center gap-[4px] px-[24px] rounded-[8px]">
-                                    <div>
-                                        <select v-model="formData.phoneNumber.code" class="text-darkGreen" >
-                                            <option v-for="(code, index) in countryCodes" :key="index" :value="code">{{ code }} <i class="pi pi-chevron-down"></i></option>
-                                        </select>
-                                    </div>
-                                        <input v-model="formData.phoneNumber.number" placeholder="+1 (555) 000-000" class="text-[16px] font-[400] w-full  py-[16px] " />
+                                        <div>
+                                                <select v-model="formData.phoneNumber.code" class="text-darkGreen" >
+                                                    <option v-for="(code, index) in countryCodes" :key="index" :value="code">{{ code }} <i class="pi pi-chevron-down"></i></option>
+                                                </select>
+                                        </div>
+                                        <input v-model="formData.phoneNumber.number" placeholder="+1 (555) 000-000" class="outline-none text-[16px]   font-[400] w-full  py-[16px] " />
                                     </div>
                                     
                                 </div>
