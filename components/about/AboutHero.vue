@@ -30,7 +30,7 @@
         <div 
         data-aos="fade-up"
         data-aos-anchor-placement="top-bottom"
-        class="w-full lg:w-[1280px]  lg:px-[0px] h-[280px] md:h-[480px] custom_bg "> 
+        class="w-full lg:w-[1280px]  rounded-[24px] lg:px-[0px] h-[280px] md:h-[480px] custom_bg "> 
             
         </div>
     </div>

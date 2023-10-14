@@ -37,7 +37,7 @@
                     </div>
                     <div class="flex flex-col md:flex-row lg:flex-col gap-[32px]">
                         <div class="lg:w-[416px] h-[416px]">
-                            <img class="h-full w-full fit_img" src="/img/grid6.png" />
+                            <img class="h-full w-full fit_img" src="/svg/asian_image.svg" />
                         </div>
                         <div class="lg:w-[416px] h-[416px]">
                             <img class="h-full w-full fit_img" src="/img/grid7.png" />

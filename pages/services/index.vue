@@ -2,7 +2,7 @@
     <div class="overflow-x-hidden">
         <HeaderGreen /> 
         <ServicesHero />
-        <ServicesItemHeader />
+        <!-- <ServicesItemHeader /> -->
      
         <ServicesItem />
         <Partners />

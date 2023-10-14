@@ -13,7 +13,8 @@ module.exports = {
         borderGreen:'#134B13',
         inputGray:'#9CAFA5',
         darkGray:' #D9D9D9',
-        hoverGreen: '#108645'
+        hoverGreen: '#108645',
+        milkColor:'#FDF5F3'
       },
       backgroundImage:{
         'hero-bg':"url('/img/Hero-bg.png')"

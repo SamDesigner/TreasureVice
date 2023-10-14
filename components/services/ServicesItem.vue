@@ -34,7 +34,7 @@
                 </div>
                 <div>
                     <div 
-                    data-aos="fade-up"
+                    data-aos="fade-left"
                     data-aos-duration="3000"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg">
                         <img class="h-[100%] rounded-tl-[28px] rounded-bl-[28px]" src='/img/crotchet_nurse.jpeg' />
@@ -47,10 +47,10 @@
             <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8   ">
                 <div class="order-2 md:order-1">
                     <div 
-                    data-aos="fade-up"
+                    data-aos="fade-right"
                     data-aos-duration="3000"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tr-[28px] rounded-br-[28px] custom_bg2">
-                        <img class="rounded-tr-[28px] rounded-br-[28px] h-[100%]" src='/img/social_care.jpeg' />
+                        <img class="rounded-tr-[28px] rounded-br-[28px] h-[100%]" src='/img/newsocial_care.png' />
                     </div>
                 </div>
 
@@ -119,7 +119,7 @@
                 </div>
                 <div>
                     <div 
-                    data-aos="fade-down-right"
+                    data-aos="fade-left"
                     class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tl-[28px] rounded-bl-[28px] custom_bg3">
                         <img class="h-[100%] rounded-tl-[28px] rounded-bl-[28px]" src='/img/helping_nurse.jpeg' />
                     </div>

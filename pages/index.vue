@@ -7,7 +7,8 @@
     <Partners />
     <Banner />
     <Benefits />
-    <FeaturedServices />
+    <!-- <FeaturedServices /> -->
+    <Vision />
     <Footer />
   </div>
 </template>

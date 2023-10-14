@@ -26,8 +26,8 @@
                 <div 
                 data-aos="fade-up"
                 data-aos-duration="3000"
-                class="custom_bg2 h-[280px] md:h-[480px]   order-2  md:order-1 rounded-3xl">
-                    <img class="h-[100%]" src="/img/old_woman.png" />
+                class="custom_bg2 h-[280px] md:h-[480px] order-2  md:order-1 rounded-3xl">
+                    <img class="h-[100%] rounded-[24px]  " src="/img/old_woman.png" />
                 </div>
                 <div 
                 data-aos="fade-left"

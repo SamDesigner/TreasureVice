@@ -8,7 +8,7 @@
             class=" lg:w-[956px]">
                 <h1 class="text-lightGreen">Welcome</h1>
                 <p class="text-darkGreen text-[24px] w-full lg:text-[40px]  font-bold">
-                    We provide personalized home care to adults under and above 65 years to enable them to maintain a comfortable and independent living with dignity.
+                    We provide personalized home care services to vulnerable adults to enable them to live comfortably and independently in their own homes.
                 </p>
             </div>
             <div data-aos="fade-up" 
