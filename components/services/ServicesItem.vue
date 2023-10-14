@@ -126,6 +126,50 @@
                 </div>
             </div>
         </div>
+        <div class="pt-[40px]  md:pt-[80px] md:pr-[60px] lg:pr-[80px]">
+            <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8   ">
+                <div class="order-2 md:order-1">
+                    <div 
+                    data-aos="fade-right"
+                    data-aos-duration="3000"
+                    class="h-[280px] md:h-[600px] lg:h-[560px] rounded-tr-[28px] rounded-br-[28px] custom_bg2">
+                        <img class="rounded-tr-[28px] rounded-br-[28px] h-[100%]" src='/img/headset.png' />
+                    </div>
+                </div>
+
+
+                <div class="order-1 md:order-2 text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
+                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Companionship</h1>
+                    <p class="text-[16px] leading-[28px]">
+                        Treasure Vince offers companionship services to help people stay connected and engaged with their community.
+                    </p>
+                    <div class="flex flex-col gap-[24px] pl-6">
+                        <div 
+                        data-aos="flip-up"
+                        class="flex flex-col gap-[16px] items-start">
+                            <div>
+                                <img src="/svg/1.svg" />
+                            </div>
+                            <p class="leading-[28px] text-[16px] font-[400]">
+                                We can provide emotional support and companionship to people who are feeling lonely or isolated. We can also offer guidance and support to people who are facing difficult challenges in their lives.
+                            </p>
+                        </div>
+                        <div 
+                        data-aos="flip-up"
+                        class="flex flex-col gap-[16px] items-start">
+                            <div>
+                                <img src="/svg/2.svg" />
+                            </div>
+                            <p class="leading-[28px] text-[16px] font-[400]">
+                                We can help you with errands and appointments, such as grocery shopping, doctor's visits, and banking. We can also provide transportation and assistance as needed.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+             
+            </div>
+        </div>
+        
     </div>
 </template>
 

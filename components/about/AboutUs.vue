@@ -19,14 +19,14 @@
                     <h1 class="text-darkGreen text-[20px] md:text-[32px] font-[600] leading-[36px] md:leading-[48px]">We Provide Quality Nursing Care Services</h1>
                     <div class="text-dark text-[16px] leading-[28px] flex flex-col gap-[8px]"> 
                         <p>
-                            Treasure Vince care is a registered Home Care Agency providing a range of care and support services to adults in their own homes and in the community. Treasure Vince provides high-quality care and support in the client’s home. We provide personal care and person-centred services tailored to individual service users.
+                            Treasure Vince Care Limited care is a registered Home Care Agency providing a range of care and support services to vulnerable adults in the comfort of their own homes and within the community.
                         </p> 
                         <p>
-                            We also provide supported accommodation to young adults to live a happy and rewarding life. Supporting them to develop their independent living skills and build and maintain their family and social network.
+                            We also provide supported accommodation to young adults to live a happy and rewarding life. Supporting them to develop their independent living skills and maintain a good quality of life.
                         </p>
                     </div>
                 </div>  
-                <nuxt-link>
+                <nuxt-link to="/contact">
                     <button class="bg-lightGreen flex items-center text-white gap-[8px] w-full flex justify-center md:w-fit border border-white rounded-[1000px] py-[14px] px-[32px]">
                         <span>Book an appointment</span>
                         <i class="pi pi-arrow-right text-xs">   </i>

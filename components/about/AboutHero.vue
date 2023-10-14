@@ -15,7 +15,7 @@
                     </div>
          
                 </div>
-               <nuxt-link class="w-full md:w-fit flex justify-center">
+               <nuxt-link to="/contact" class="w-full md:w-fit flex justify-center">
                     <button class="text-white rounded-[1000px] bg-lightGreen px-[32px] py-[14px] w-full  flex justify-center items-center gap-[8px] border border-white">
                         
                         Book an appointment

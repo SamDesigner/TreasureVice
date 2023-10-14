@@ -37,7 +37,7 @@
                                 <img src="/svg/3.svg" />
                             </div>
                             <div>
-                                <h3 class="text-[16px] font-[600] leading-[32px]">What Types of Care Services Do You Offer?</h3>
+                                <h3 class="text-[16px] font-[600] leading-[32px]">What Is the Cost of Your Services, and Do You Accept Insurance?</h3>
                                 <p class="text-[16px] font-[400]">Pricing varies based on care requirements, and we offer competitive rates. We accept various insurance plans and assist you in exploring payment options.</p>
                             </div>
                         </div>

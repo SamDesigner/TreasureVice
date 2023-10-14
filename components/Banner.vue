@@ -14,11 +14,11 @@
                 class="flex flex-col gap-10 ">
                     <div>
               
-                        <h1 class="text-darkGreen text-[32px] font-[600] leading-[48px]">Treasure Vince- Home Care Agency, Supported Accommodation & Recruitment.</h1>
+                        <h1 class="text-darkGreen text-[32px] font-[600] leading-[48px]">Treasure Vince- Home Care Agency, Supported Living & Recruitment.</h1>
                         <p class="text-darkGreen text-[16px] leading-[28px]">With our personalized care plans, you can stay in your own home and maintain your independence. We provide assistance with activities of daily living, companionship, and transportation. We also offer support groups and other resources to help you stay connected to your community.</p>
                     </div>
                   
-                    <nuxt-link>
+                    <nuxt-link to="/contact">
                         <button class=" bg-lightGreen text-white w-full md:w-auto py-[14px] px-[32px] w-auto rounded-3xl flex items-center justify-center gap-[8px] ">
                             <span>Book an appointment</span>
                             <i class="pi pi-arrow-right text-xs"></i>

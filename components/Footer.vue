@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="bg-lightGreen py-[80px]">
+        <!-- <div class="bg-lightGreen py-[80px]">
             <div 
             class="w-full mx-auto max-w-[1440px] px-[16px] lg:px-[80px]">
                     <div class="flex flex-col  items-center space-y-5   ">
@@ -13,7 +13,7 @@
                         </nuxt-link>
                     </div>
             </div>
-        </div>
+        </div> -->
         <div class="bg-darkGreen py-[40px]">
             <div class="w-full mx-auto px-[16px] lg:px-[80px]  max-w-[1440px]">
                 <div class="flex flex-col gap-[40px] md:flex-row items-center justify-between px-[20px] lg:px-[0px]"> 
