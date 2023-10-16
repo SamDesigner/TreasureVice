@@ -5,7 +5,7 @@
         <!-- <ServicesItemHeader /> -->
      
         <ServicesItem />
-        <ServicesLayer />
+       
         <Partners />
         
         <Footer />

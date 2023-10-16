@@ -4,6 +4,7 @@
         <CandidatesHero />
         <CandidatesInfo />
         <CandidatesApplication />
+        <ServicesLayer />
         <Partners />
         <Footer />
     </div>
