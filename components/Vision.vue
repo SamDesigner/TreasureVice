@@ -11,13 +11,13 @@
                 <div class="md:w-[614px] flex flex-col items-center justify-center gap-[20px] md:gap-[40px]">
                     <div class="text-darkGreen">
                         <h3 class="text-[24px] md:text-[32px] leading-[48px] font-[600] text-center text-darkGreen">Our Vision</h3>
-                        <p class="text-[14px] md:text-[16px] leading-[28px] font-[400] text-center">
+                        <p class="text-[14px] md:text-[16px] lg:text-[24px] leading-[36px] flex items-stretch font-[400] text-center">
                             At Treasure Vince Care, our vision is to treat all our clients with dignity, respect and genuine care. With this in mind, we promise to provide the best quality care and support that is person centred and tailored to all your needs, routine, wishes and hobbies.
                         </p>
                     </div>
                     
                     <div class="flex justify-center  ">
-                        <p class="md:w-[518px] text-[16px] lg:text-[24px] text-center font-[600] text-lightGreen italic">“...from our family to your family, we are honoured to care for your loved one...”</p>
+                        <p class="md:w-[518px] text-[16px] lg:text-[32px] text-center font-[600] text-lightGreen italic">“...from our family to your family, we are honoured to care for your loved one...”</p>
                     </div>
                 </div>
             </div>

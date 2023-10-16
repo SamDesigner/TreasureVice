@@ -1,6 +1,13 @@
 <template>
-    <div class="bg-grayBg pt-[80px] lg:px-[80px] ">
-        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1440px] lg:gap-[50px] mx-auto grid grid-cols-1 gap-y-[40px]  md:grid-cols-2 justify-center items-center">
+    <div class="bg-grayBg pt-[80px]  ">
+        <!-- <div class="bg-darkGreen  px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1440px] lg:gap-[50px] mx-auto grid grid-cols-1 gap-y-[40px]  md:grid-cols-2 justify-center items-center">
+            <div
+                data-aos="fade-left"
+                data-aos-offset="200"
+                data-aos-duration="1200"
+            class="custom_bg h-[280px]  md:h-[480px]   rounded-3xl">
+                <img class="h-[100%] rounded-3xl" src="/img/no_stethoscop2.jpeg" />
+            </div>
             <div
                  data-aos="fade-right"
                 data-aos-offset="200"
@@ -12,32 +19,26 @@
                     <p class="text-[16px] leading-[28px]">Our team consists of compassionate and experienced caregivers who are dedicated to your comfort, safety, and emotional well-being.</p>
                 </div>
             </div>
-            <div
-                data-aos="fade-left"
-                data-aos-offset="200"
-                data-aos-duration="1200"
-            class="custom_bg h-[280px]  md:h-[480px]   rounded-3xl">
-                <img class="h-[100%] rounded-3xl" src="/img/no_stethoscop2.jpeg" />
-            </div>
-        </div>
+           
+        </div> -->
         
-        <div class="pt-[40px] md:pt-[80px] px-[16px]  ">
-            <div class=" gap-y-[40px] md:space-y-0   lg:px[80px] py-[40px] w-auto max-w-[1440px] mx-auto grid grid-cols-1 gap-[40px] md:grid-cols-2 justify-between items-center">
+        <div class=" px-[16px]  md:px-[80px] bg-darkGreen">
+            <div class=" gap-y-[40px] md:space-y-0    py-[40px] w-auto max-w-[1440px] mx-auto grid grid-cols-1 gap-[40px] md:grid-cols-2 justify-between items-center">
                 <div 
                 data-aos="fade-up"
                 data-aos-duration="3000"
-                class="custom_bg2 h-[280px] md:h-[480px] order-2  md:order-1 rounded-3xl">
-                    <img class="h-[100%] rounded-[24px]  " src="/img/old_woman.png" />
+                class="custom_bg2 h-[280px] md:h-[480px] w-[592px] order-2  md:order-1 rounded-3xl">
+                    <img class="h-[100%] w-full rounded-[24px]  " src="/img/old_woman.png" />
                 </div>
                 <div 
                 data-aos="fade-left"
                 data-aos-offset="200"
                 data-aos-duration="1200"
-                class="flex flex-col gap-10 order-1 md:order-2 ">
-                    <div>
-                        <h1 class="text-lightGreen text-[18px] font-[400] leading-[28px]">Quality care for people you love</h1>
-                        <h1 class="text-darkGreen text-[32px] font-[600] leading-[48px]">Companionship and Engagement</h1>
-                        <p class="text-darkGreen text-[16px] leading-[28px]">We go beyond caregiving by providing companionship and engaging activities to combat isolation and enhance your quality of life.</p>
+                class="flex flex-col gap-10 order-1 md:order-2  ">
+                    <div class="text-white">
+                        <h1 class=" text-[26px] font-[400] leading-[36px]">Quality care for people you love</h1>
+                        <h1 class="text-[28px] lg:text-[40px] font-[600] leading-[56px]">Companionship and Engagement</h1>
+                        <p class="text-[16px]  md:text-[18px] leading-[30px] font-[400]">We go beyond caregiving by providing companionship and engaging activities to combat isolation and enhance your quality of life.</p>
                     </div>
                   
                     <nuxt-link to="/contact">

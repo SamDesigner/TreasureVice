@@ -52,8 +52,8 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send them a private message</p>
-                                    <p class="underline text-[400] leading-[30px]">admin@treasurevincehampshire. co.uk</p>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send us a private message</p>
+                                    <p class="underline text-[400] leading-[30px] text-primary">admin@treasurevincehampshire. co.uk</p>
                                 </div>
                              
                             </div>
@@ -63,8 +63,8 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with them</p>
-                                    <p class="underline text-[400] leading-[30px]">03300432599, 07459304221</p>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with us</p>
+                                    <p class="underline text-[400] leading-[30px] text-primary">03300432599, 07459304221</p>
                                 </div>
                              
                             </div>
@@ -74,8 +74,8 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send them a private message</p>
-                                    <p class="underline text-[400] leading-[30px]">Suite 3, 308-318 commercial road, Portsmouth PO1 4BL</p>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Visit their office HQ</p>
+                                    <p class="underline text-[400] leading-[30px] text-primary">Suite 3, 308-318 commercial road, Portsmouth PO1 4BL</p>
                                 </div>
                               
                             </div>

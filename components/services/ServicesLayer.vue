@@ -4,7 +4,7 @@
             <div 
             class="w-full mx-auto max-w-[1440px] px-[16px] lg:px-[80px]">
                     <div class="flex flex-col  items-center space-y-5   ">
-                        <h1 class="text-[20px] md:text-[32px] text-white font-[600]">Apply Now!!!!</h1>
+                        <h1 class="text-[20px] md:text-[32px] text-white font-[600]">Apply Now</h1>
                         <nuxt-link to="/contact" class=" w-full md:w-auto px-[16px]">
                             <button class="bg-lightGray flex gap-[8px] rounded-[1000px] py-[14px] px-[32px] w-full  md:w-[230px] justify-center items-center">
                                 <span class="">Fill Application form</span>

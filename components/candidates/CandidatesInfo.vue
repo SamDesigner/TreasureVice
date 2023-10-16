@@ -1,5 +1,5 @@
 <template>
-    <div class=" text-darkGreen ">
+    <div class=" text-darkGreen overflow-x-hidden">
         <!-- <div class="bg-white flex flex-col justify-center items-center py-[56px] md:py-[80px] px-[16px]">
             <div class="lg:w-[740px] flex flex-col gap-[8px] ">
                 <p class="text-[16px] font-[400] leading-[28px] text-center">
@@ -16,7 +16,7 @@
             </div>
             <div class="lg:w-[362px] py-[80px] px-[16px] lg:px-[40px] flex flex-col gap-[32px] ">
                 <div>
-                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px]">We’re Looking For Candidates Who:</h1>
+                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px]">Candidate Qualities:</h1>
                 </div>
                 <div class="flex flex-col gap-[24px] items-start">
                     <!-- <div class="flex items-start gap-[16px]">
@@ -29,37 +29,37 @@
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Have care experience and exhibit sound clinical skills</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Experience and Sound clinical skills.</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Show a commitment to delivering person centred care</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Flexibility & Reliability.</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">demonstrate a caring nature, treating patients, carers and relatives with respect, dignity and kindness.</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Commitment.</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Demonstrate integrity</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Genuine Care & Compassionate.</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Are good team-players</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Integrity.</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Are flexible and reliable</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Good Team Player.</p>
                     </div>
                 </div>
                 
@@ -67,10 +67,74 @@
             </div>
             <div class="lg:w-[362px] py-[80px] px-[40px] flex flex-col gap-[32px] bg-grayBg ">
                 <div>
-                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px] capitalize">Our recruitment process involves</h1>
+                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px] capitalize">Registration Process</h1>
                 </div>
                 <div class="flex flex-col gap-[24px] items-start">
                 
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Online Application Form.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Current CV.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Right to work.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Passport.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Address.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Proof of National Insurance.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Care Certificate.</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">DBS Certificate (update service).</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Passport Photo size.</p>
+                    </div>
+                
+                </div>
+                
+               
+            </div>
+            <div class="lg:w-[362px] py-[80px] px-[40px] flex flex-col gap-[32px] ">
+                <div>
+                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px] capitalize">Our Recruitment Process</h1>
+                </div>
+                <div class="flex flex-col gap-[24px] items-start">
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
@@ -105,7 +169,7 @@
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">DBS check.</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">DBS check</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
@@ -113,71 +177,7 @@
                         </span>
                         <p class="text-[16px] font-[400] leading-[28px]">Occupational Health Assessment</p>
                     </div>
-                
-                </div>
-                
-               
-            </div>
-            <div class="lg:w-[362px] py-[80px] px-[40px] flex flex-col gap-[32px] ">
-                <div>
-                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px] capitalize">To register you will need</h1>
-                </div>
-                <div class="flex flex-col gap-[24px] items-start">
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Online Application Form</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Current CV</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Right to work</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Passport</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Address</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Proof of National Insurance</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Care Certificate</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">DBS Certificate</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Passport Photo size</p>
-                    </div>
-                 
+                    
                 </div>
                 
                

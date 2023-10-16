@@ -27,10 +27,10 @@
             data-aos-duration="1500"
             class="flex justify-center items-center">
                 <div class="text-center flex flex-col justify-center items-center">
-                    <p class="text-primary">What we do</p>
-                    <h1 class="text-darkGreen text-[20px] md:text-[32px] font-[600] leading-[48px]">Personalized In-Home Care</h1>
+                   
+                    <h1 class="text-darkGreen text-[20px] md:text-[32px] font-[600] leading-[48px]">What we do</h1>
                     <p class=" lg:text-[16px] md:w-[740px] text-center leading-[28px] text-darkGreen">
-                        We provide customized care plans tailored to your unique needs, ensuring you receive the specific support required to maintain your independence and well-being.
+                        We provide customized care plans and support to vulnerable adults to help them maintain their independence and well-being.
                     </p>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     </div>
                     <p class="text-darkGreen leading-[32px] font-bold">Carers 24*7</p>
                     <p class="text-darkGreen text-[16px] leading-[28px]">
-                        We provide carers to stay with you 24/7 to give you complete peace of mind.
+                        We provide 24/7 care to give you complete peace of mind.
                     </p>
                 </div>
                 <div 
@@ -58,9 +58,9 @@
                     <div>
                         <img src='/svg/user-star.svg' />
                     </div>
-                    <p class="text-darkGreen leading-[32px] font-bold">Trained Professionals</p>
+                    <p class="text-darkGreen leading-[32px] font-bold">Experienced Health Care Workers</p>
                     <p class="text-darkGreen text-[16px] leading-[28px]">
-                        We have a professional, friendly, well trained, competent care teams who are passionate about what they do.
+                        We have a team of experienced, friendly, competent, and compliant healthcare workers who can deliver high-quality care.
                     </p>
                 </div>
                 <div 
@@ -72,9 +72,9 @@
                     <div>
                         <img src='/svg/verified.svg' />
                     </div>
-                    <p class="text-darkGreen leading-[32px] font-bold">Background Checked</p>
+                    <p class="text-darkGreen leading-[32px] font-bold">Recruitment</p>
                     <p class="text-darkGreen text-[16px] leading-[28px]">
-                        They are fully insured, have been reference checked, and police checked via the Disclosure and Barring Service.
+                        We supply experienced and fully vetted healthcare workers to different care establishments.
                     </p>
                 </div>
             </div>

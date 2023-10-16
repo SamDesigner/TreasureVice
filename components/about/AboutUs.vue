@@ -16,14 +16,12 @@
             class="flex flex-col gap-[40px] order-1 md:order-2">
                 <div>
                     <h3 class="text-lightGreen text-[18px]">More About Us</h3>
-                    <h1 class="text-darkGreen text-[20px] md:text-[32px] font-[600] leading-[36px] md:leading-[48px]">We Provide Quality Nursing Care Services</h1>
+                    <h1 class="text-darkGreen text-[20px] md:text-[32px] font-[600] leading-[36px] md:leading-[48px]">We Provide Quality Care Services</h1>
                     <div class="text-dark text-[16px] leading-[28px] flex flex-col gap-[8px]"> 
                         <p>
-                            Treasure Vince Care Limited care is a registered Home Care Agency providing a range of care and support services to vulnerable adults in the comfort of their own homes and within the community.
+                            Treasure Vince Care Limited care is a registered Home Care Agency providing a range of care and support services to vulnerable adults in the comfort of their own homes and within the community. 
                         </p> 
-                        <p>
-                            We also provide supported accommodation to young adults to live a happy and rewarding life. Supporting them to develop their independent living skills and maintain a good quality of life.
-                        </p>
+                       
                     </div>
                 </div>  
                 <nuxt-link to="/contact">
