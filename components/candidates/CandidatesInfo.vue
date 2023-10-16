@@ -16,15 +16,15 @@
             </div>
             <div class="lg:w-[362px] py-[80px] px-[16px] lg:px-[40px] flex flex-col gap-[32px] ">
                 <div>
-                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px]">We’re Looking To Candidates Who:</h1>
+                    <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px]">We’re Looking For Candidates Who:</h1>
                 </div>
                 <div class="flex flex-col gap-[24px] items-start">
-                    <div class="flex items-start gap-[16px]">
+                    <!-- <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
                         <p class="text-[16px] font-[400] leading-[28px]">Are able to pick up shifts at the last minute</p>
-                    </div>
+                    </div> -->
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
@@ -47,7 +47,7 @@
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Demonstrate integrity and work within their individual competencies</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Demonstrate integrity</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
@@ -59,7 +59,7 @@
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Are flexible and punctual</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Are flexible and reliable</p>
                     </div>
                 </div>
                 
@@ -70,60 +70,50 @@
                     <h1 class="text-[20px] md:text-[24px] font-[600] leading-[32px] capitalize">Our recruitment process involves</h1>
                 </div>
                 <div class="flex flex-col gap-[24px] items-start">
+                
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Our recruitment process involves</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">CV Review</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Initial phone interview</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Selection</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Referencing </p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Interview</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Face-to-face or On-line interview</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Reference Check</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Verification of identity documents</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Identification verification</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Completion of an Enhanced DBS (Disclosure & Barring Service) or evidence of a certificate on the DBS Update Service (all names must be checked and the original certificate seen)</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">DBS check.</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Occupational Health assessment and evidence of immunisation in line with current ‘Green Book’ guidelines, including EPP requirements as applicable to the deployment area.</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Occupational Health Assessment</p>
                     </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Up to date evidence of practical competency training for Basic Life Support and Manual Handling</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Evidence of educational certificates for advanced and specialist roles</p>
-                    </div>
+                
                 </div>
                 
                
@@ -137,43 +127,55 @@
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Proof of ID (Passport, Birth Certificate, Residency Card)</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Address, and National Insurance Number</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">DBS Certificate in-date</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Qualifications/ training certificates</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Passport style photo</p>
-                    </div>
-                    <div class="flex items-start gap-[16px]">
-                        <span class="flex shrink-0">
-                            <img src="/svg/singleverified.svg" />
-                        </span>
-                        <p class="text-[16px] font-[400] leading-[28px]">Professional Registration Certificate</p>
+                        <p class="text-[16px] font-[400] leading-[28px]">Online Application Form</p>
                     </div>
                     <div class="flex items-start gap-[16px]">
                         <span class="flex shrink-0">
                             <img src="/svg/singleverified.svg" />
                         </span>
                         <p class="text-[16px] font-[400] leading-[28px]">Current CV</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Right to work</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Passport</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Proof of Address</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Proof of National Insurance</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Care Certificate</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">DBS Certificate</p>
+                    </div>
+                    <div class="flex items-start gap-[16px]">
+                        <span class="flex shrink-0">
+                            <img src="/svg/singleverified.svg" />
+                        </span>
+                        <p class="text-[16px] font-[400] leading-[28px]">Passport Photo size</p>
                     </div>
                  
                 </div>

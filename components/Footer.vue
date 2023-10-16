@@ -16,19 +16,36 @@
         </div> -->
         <div class="bg-darkGreen py-[40px]">
             <div class="w-full mx-auto px-[16px] lg:px-[80px]  max-w-[1440px]">
-                <div class="flex flex-col gap-[40px] md:flex-row items-center justify-between px-[20px] lg:px-[0px]"> 
-                    <div>
-                        <img class="h-[40px] " src="/img/footer_icon.png" />
+                <div>
+                    <div class="flex flex-col gap-[40px] md:flex-row items-center justify-between px-[20px] lg:px-[0px]"> 
+                            <div>
+                                <img class="h-[40px] " src="/img/footer_icon.png" />
+                            </div>
+                            <div class=" flex flex-col md:flex-row items-center justify-center text-white  md:space-y-0 gap-[24px] text-[14px]">
+                                <nuxt-link to="/about">About Us</nuxt-link>
+                                <nuxt-link to="/services">Services</nuxt-link>
+                                <nuxt-link to="/contact">Contact</nuxt-link>
+                                <nuxt-link to="/information">Useful Information</nuxt-link>
+                                <nuxt-link to="/slavery-statement">Slavery Statement</nuxt-link>  
+                                <nuxt-link to="/candidates">Candidates</nuxt-link>  
+                            </div>
                     </div>
-                    <div class=" flex flex-col md:flex-row items-center justify-center text-white  md:space-y-0 gap-[24px] text-[14px]">
-                        <nuxt-link to="/about">About</nuxt-link>
-                        <nuxt-link to="/services">Services</nuxt-link>
-                        <nuxt-link to="/contact">Contact</nuxt-link>
-                        <nuxt-link to="/information">Useful Information</nuxt-link>
-                        <nuxt-link to="/slavery-statement">Slavery Statement</nuxt-link>  
-                        <nuxt-link to="/candidates">Candidates</nuxt-link>  
+                    <div class="flex items-center justify-end mt-6 gap-6 ">
+                        <nuxt-link class="text-white flex items-center text-sm gap-[5px]">
+                            <div>
+                                <span><img src='/svg/call.svg'> </span>
+                            </div>
+                            <span>03300432599,</span>
+                            <span>07459304221</span>
+                          
+                        </nuxt-link>
+                        <nuxt-link class="text-white flex items-center text-sm gap-[5px]">
+                            <span><img src="/svg/mail.svg" /></span>
+                            admin@treasurevincehampshire .co.uk
+                        </nuxt-link>
                     </div>
                 </div>
+              
                 <div class="pt-[40px] pb-[8px] text-[14px]">
                     <div class="flex justify-center items-center   text-white  text w-auto">
                         <div class="flex flex-col justify-center md:inline-block items-center pt-[20px] border-t border-borderGreen space-x-5 gap-[20px] text-center">

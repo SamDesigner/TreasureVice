@@ -5,7 +5,9 @@
         <!-- <ServicesItemHeader /> -->
      
         <ServicesItem />
+        <ServicesLayer />
         <Partners />
+        
         <Footer />
     </div>
 </template>
