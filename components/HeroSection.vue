@@ -2,7 +2,7 @@
     <div data-aos="fade-up" 
     data-aos-delay="300" 
     data-aos-easing="ease-in-out-cubic"
-    class="bg-grayBg w-full reveal_hero lg:px-[80px] ">
+    class="bg-grayBg w-full reveal_hero lg:px-[80px] flex items-center justify-center ">
         <div  class="flex flex-col w-auto lg:max-w-[1280px] px-[16px]  gap-[32px]  justify-center items-center  pt-[56px]  md:gap-6" >
             <div class=" md:p-3 lg-0 flex flex-col gap-[40px]">
                 <div class="flex flex-col gap-[40px] lg:flex-row  justify-between  items-start lg:items-end">

@@ -3,12 +3,13 @@
     <Header />
     <HeroSection />
     <WelcomeSection />
-    <Companionship />
+    <Vision />
+    <!-- <Companionship /> -->
     <!-- <Partners /> -->
     <Banner />
     <Benefits />
     <!-- <FeaturedServices /> -->
-    <Vision />
+    <Values />
     <Partners />
     <Footer />
   </div>
