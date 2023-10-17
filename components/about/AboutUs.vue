@@ -6,7 +6,7 @@
             data-aos="fade-right"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
-            class="h-[280px]  md:h-[480px] lg:w-[592px] rounded-3xl custom_bg order-2 md:order-1">
+            class="h-[280px]  md:h-[480px] lg:w-[500px] rounded-3xl custom_bg order-2 md:order-1">
                 <img class="h-[100%] rounded-[24px]" src="/img/help.jpeg" />
             </div>
             <div 

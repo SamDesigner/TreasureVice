@@ -92,7 +92,7 @@
                 <div class="text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
                     <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Domestic Care</h1>
                     <p class="text-[16px] leading-[28px]">
-                        We offer regular cleaning and maintenance, laundry services, shopping and meal preparation, and companionship. 
+                        We offer regular cleaning and maintenance, laundry services, shopping, meal preparation and companionship. 
                     </p>
                     <!-- <div class="flex flex-col gap-[24px] pl-4">
                         <div 

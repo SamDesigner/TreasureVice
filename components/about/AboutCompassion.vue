@@ -1,6 +1,6 @@
 <template>
     <div class="bg-grayBg py-[80px]">
-        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1240px] mx-auto grid grid-cols-1 gap-[50px] md:grid-cols-2 justify-center items-center">
+        <div class="bg-darkGreen lg:rounded-[24px] px-[16px] py-[40px] md:p-[56px] w-auto max-w-[1240px] mx-auto grid grid-cols-1 gap-[70px] md:grid-cols-2 justify-center items-center">
             <div
             data-aos="fade-right"
             >

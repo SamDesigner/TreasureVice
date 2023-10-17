@@ -55,15 +55,15 @@
             </div>
             <div class="flex items-center gap-5 w-[264px] border-r border-primary  ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class=" text-white">24/7 hours</span>
+                <span  class=" text-white">24 hours Care</span>
             </div>
-            <div class="flex items-center gap-5 w-[264px] border-r border-primary">
+            <div class="flex items-center gap-5 w-[264px] border-r border-primary  ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class=" text-white">Trained Professionals</span>
+                <span  class=" text-white">Experienced Health Workers</span>
             </div>
-            <div class="flex items-center justify-center gap-5  ">
+            <div class="flex items-center justify-center w-[264px] gap-5  ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class="text-white ">Background Checked</span>
+                <span  class="text-white ">Recruitment</span>
             </div>
         </div>
         <div class="hidden md:flex lg:hidden  py-4 justify-between items-center max-w-[1440px] px-[16px] mx-auto ">
@@ -73,17 +73,17 @@
             </div>
             <div class="flex items-center gap-5 justify-center  border-r border-primary w-[264px] ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class=" text-white">24/7 hours</span>
+                <span  class=" text-white">24 hours Care</span>
             </div>
             <div class="flex items-center justify-end gap-5  border-primary w-[264px] ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class=" text-white">Trained Professionals</span>
+                <span  class=" text-white">Recruitment</span>
             </div>
         </div>
         <div class="md:hidden py-3 flex items-center justify-center ">
             <div class="flex items-center gap-5 border-primary  ">
                 <img src="/svg/cross-icon.svg" />
-                <span class=" text-white">CQC & CW Regulated</span>
+                <span class=" text-white">CQC Regulated</span>
             </div>
         </div>  
     </div>
