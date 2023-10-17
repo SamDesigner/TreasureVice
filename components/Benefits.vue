@@ -114,7 +114,7 @@
                     </div>
                    
                 </div>
-                <div 
+                <!-- <div 
                 data-aos="fade-right"
                 data-aos-delay="400"
                 class="grid md:col-span-2 lg:col-span-3 card_bg  flex justify-center rounded-[8px] ">
@@ -135,7 +135,7 @@
                         </div>
                     
                     </div>
-                </div>    
+                </div>     -->
             </div>
         </div>
       

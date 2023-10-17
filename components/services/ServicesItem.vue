@@ -141,7 +141,7 @@
                 <div class="order-1 md:order-2 text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
                     <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Companionship</h1>
                     <p class="text-[16px] leading-[28px]">
-                        Our carers offers companionship services to help people stay connected and engaged with their community.
+                        Our carers offer companionship services to help people stay connected and engaged with their community.
                     </p>
                     <div class="flex flex-col gap-[24px] pl-6">
                         <div 

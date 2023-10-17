@@ -3,8 +3,9 @@
         <HeaderGreen />
         <CandidatesHero />
         <CandidatesInfo />
-        <CandidatesApplication />
         <ServicesLayer />
+        <CandidatesApplication />
+        
         <Partners />
         <Footer />
     </div>

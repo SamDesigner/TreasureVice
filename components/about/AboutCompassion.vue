@@ -7,7 +7,7 @@
                 <div class="text-white space-y-4 text-center md:text-left">
                     <h1 class="text-lightGreen">Our Mission & Vision</h1>
                     <h1 class="text-[20px] md:text-[32px] font-[600]">Delivering Care with Compassion and Dedication</h1>
-                    <p class="text-[16px] leading-[28px]">We provide a high quality of service, which is safe, effective, well-led and caring which will promote the independence of service user’s, assisting them to achieve a high quality of life and giving them regular opportunities to participate in the formulation and reviews of their comprehensive care plans.</p>
+                    <p class="text-[16px] leading-[28px]">We provide a high quality of service, which is safe, effective, well-led and caring which will promote the independence of service users, assisting them to achieve a high quality of life and giving them regular opportunities to participate in the formulation and reviews of their comprehensive care plans.</p>
                 </div>
             </div>
             <div 

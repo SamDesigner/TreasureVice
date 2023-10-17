@@ -1,6 +1,14 @@
 <template>
     <div class="w-full">
-        <div class="px-[16px] md:px-0  py-[24px] w-auto mx-auto  " :class="{'fixed-navbar' : isFixed}">
+        <div class="flex justify-center items-center py-[20px] gap-[20px]">
+            <img src="/img/phone.png" />
+
+            <span class="text-primary">
+                03300432599, 07459304221
+            </span>
+
+        </div>
+        <div class="px-[16px] md:px-0  pb-[24px] w-auto mx-auto  " :class="{'fixed-navbar' : isFixed}">
           
             <nav class=" mx-auto max-w-[1440px] md:px-[20px] lg:px-[80px] flex justify-between items-center ">
                 <nuxt-link to="/"  >
@@ -50,11 +58,11 @@
         <div class=" hidden lg:flex w-full max-w-[1440px] px-[80px] mx-auto items-center  justify-between py-4  ">
             <div class="flex items-center gap-5 w-[264px] border-r border-primary ">
                 <img src="/svg/cross-icon.svg" />
-                <span class=" text-darkGreen">CQC & CW Regulated</span>
+                <span class=" text-darkGreen">CQC Regulated</span>
             </div>
             <div class="flex items-center gap-5 w-[264px] border-r border-primary  ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class=" text-darkGreen">Receive care in 24 hours</span>
+                <span  class=" text-darkGreen">24/7 hours</span>
             </div>
             <div class="flex items-center gap-5 w-[264px] border-r border-primary">
                 <img src="/svg/cross-icon.svg" />
@@ -68,11 +76,11 @@
         <div class="hidden md:flex lg:hidden py-4 px-[16px] justify-between items-center container mx-auto ">
             <div class="flex items-center gap-5 border-r border-primary w-[264px] ">
                 <img src="/svg/cross-icon.svg" />
-                <span class=" text-darkGreen">CQC & CW Regulated</span>
+                <span class=" text-darkGreen">CQC Regulated</span>
             </div>
             <div class="flex items-center gap-5 justify-center  border-r border-primary w-[264px] ">
                 <img src="/svg/cross-icon.svg" />
-                <span  class=" text-darkGreen">Receive care in 24 hours</span>
+                <span  class=" text-darkGreen">24/7 hours</span>
             </div>
             <div class="flex items-center justify-end gap-5  border-primary w-[264px] ">
                 <img src="/svg/cross-icon.svg" />
@@ -82,7 +90,7 @@
         <div class="md:hidden py-3 flex items-center justify-center ">
             <div class="flex items-center gap-5 border-primary  ">
                 <img src="/svg/cross-icon.svg" />
-                <span class=" text-darkGreen">CQC & CW Regulated</span>
+                <span class=" text-darkGreen">CQC Regulated</span>
             </div>
         </div>  
     </div>
