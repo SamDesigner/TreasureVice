@@ -2,7 +2,7 @@
     <div class=" flex items-center justify-center   rounded-[24px] py-[40px]   lg:w-[1280px] mx-auto ">
         <div class="  w-full relative rounded-[24px]">
             <video  autoplay  ref="videoPlayer" class="rounded-[24px] w-full "  @mouseover="showControls" @mouseout="hideControls">
-                <source class="w-full" src="/video/1016.mp4" type="video/mp4">
+                <source class="w-full" src="/video/1016(1).mp4" type="video/mp4">
             </video>
             <div class="custom-controls" :class="{ 'visible': showControlButtons }">
                 <div class="play-button" @click="tooglePlayPause" v-if="!videoPlaying">
