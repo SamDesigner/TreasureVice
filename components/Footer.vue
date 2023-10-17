@@ -17,7 +17,7 @@
         <div class="bg-darkGreen py-[40px]">
             <div class="w-full mx-auto px-[16px] lg:px-[80px]  max-w-[1440px]">
                 <div>
-                    <div class="flex flex-col gap-[40px] md:flex-row items-center justify-between px-[20px] lg:px-[0px]"> 
+                    <div class="flex flex-col gap-[40px] lg:flex-row items-center justify-between px-[20px] lg:px-[0px]"> 
                             <div>
                                 <img class="h-[40px] " src="/img/footer_icon.png" />
                             </div>
@@ -30,7 +30,7 @@
                                 <nuxt-link to="/candidates">Candidates</nuxt-link>  
                             </div>
                     </div>
-                    <div class="flex items-center justify-end mt-6 gap-6 ">
+                    <div class="flex  flex-col md:flex-row items-center justify-center lg:justify-end mt-6 gap-6 ">
                         <nuxt-link class="text-white flex items-center text-sm gap-[5px]">
                             <div>
                                 <span><img src='/svg/call.svg'> </span>
@@ -48,7 +48,7 @@
               
                 <div class="pt-[40px] pb-[8px] text-[14px]">
                     <div class="flex justify-center items-center   text-white  text w-auto">
-                        <div class="flex flex-col justify-center md:inline-block items-center pt-[20px] border-t border-borderGreen space-x-5 gap-[20px] text-center">
+                        <div class="flex flex-col justify-center lg:inline-block items-center pt-[20px] border-t border-borderGreen space-x-5 gap-[20px] text-center">
                             <span>Designed by TGPC Media</span>
                             <span>© 2018-2023 by Treasure Vince registered with companies house registration number: 09538000</span>
                         </div>

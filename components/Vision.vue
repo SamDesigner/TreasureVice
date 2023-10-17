@@ -2,10 +2,10 @@
     <div class="bg-grayBg    py-[40px] lg:py-[80px] flex justify-center shrink-0">
         <div class="max-w-[1440px] ">
             <div class="white relative rounded-[24px] md:w-[1278px] px-[16px] py-[20px] flex justify-center items-center md:p-[56px] ">
-                <div class="hidden md:block absolute left-10 bottom-5">
+                <div class=" md:block absolute bottom-0 left-0 md:left-10 md:bottom-5">
                     <img class="w-[50px] lg:w-[127px]" src="/svg/wing_left.svg" />
                 </div>
-                <div class="hidden md:block absolute right-10 top-5 ">
+                <div class=" md:block absolute top-0 right-0 md:right-10 md:top-5 ">
                     <img class="w-[50px] lg:w-[127px]" src="/svg/wing_right.svg" />
                 </div>
                 <div class="md:w-[614px] flex flex-col items-center justify-center gap-[20px] md:gap-[40px]">

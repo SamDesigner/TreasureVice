@@ -5,7 +5,7 @@
         <div class="max-w-[1440px] lg:px-[80px] flex items-center justify-center">
             <div class="flex flex-col justify-center items-center w-[632px] gap-[40px] ">
                 <div class="flex flex-col items-center flex flex-col gap-[8px] ">
-                    <h3 class="text-lightGreen">Useful Information</h3>
+                    <h3 class="text-lightGreen text-[24px] md:text-[30px]">Useful Information</h3>
                     <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center w-[263px] md:w-auto leading-[44px]">We Are Here to Serve/Help</h1>
                     
                 </div>
