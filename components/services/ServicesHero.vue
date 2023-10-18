@@ -8,7 +8,7 @@
                 <div class="flex flex-col items-center flex flex-col gap-[8px]">
                    
                     <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center">Our Services</h1>
-                    <p class="leading-[28px] text-[18px] font-[400] text-white">We provide high quality serices.</p>
+                    <p class="leading-[28px] text-[18px] font-[400] text-white">We provide high quality services.</p>
                 </div>
             
                

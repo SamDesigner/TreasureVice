@@ -8,7 +8,7 @@
                     
                     <h1 class="text-[20px] text-darkGreen leading-[36px] md:text-[32px] font-[600] md:leading-[48px] "> Why Choose Us?</h1>
                     <p class="text-darkGreen font-[400] leading-[28px] text-[16px]">
-                        We are committed to safeguarding and promoting the welfare of all those in our care at all times. We specialise in 24-hour domiciliary, live in care, supported living in the comfort of your home and within the community. We cover all areas of Hampshire, Weymouth, Sussex, Isle of Wight and Nationwide.
+                        We are committed to safeguarding and promoting the welfare of all those in our care at all times. We specialise in 24-hour domiciliary, live in care and supported living  services.  We cover all areas of Hampshire, Weymouth, Sussex, Isle of Wight and Nationwide.
                     </p>
 
                 </div>

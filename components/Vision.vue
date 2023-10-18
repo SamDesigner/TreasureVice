@@ -17,7 +17,7 @@
                     </div>
                     
                     <div class="flex justify-center  ">
-                        <p class="md:w-[518px] text-[16px] lg:text-[32px] text-center font-[600] text-lightGreen italic">“...from our family to your family, we are honoured to care for your loved one...”</p>
+                        <p class="md:w-[518px] text-[16px] lg:text-[32px] text-center font-[600] text-lightGreen italic">“...from our family to your family, we are honoured to care for your loved ones...”</p>
                     </div>
                 </div>
             </div>

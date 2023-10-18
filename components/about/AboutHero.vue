@@ -7,7 +7,7 @@
                     
                     <div class="flex flex-col gap-[8px] items-center justify-center">
                         <p class="font-[16px] text-white text-center leading-[28px] flex md:self-stretch ">
-                            At Treasure Vince Care, our vision is to treat all our service users with dignity and respect. With this in mind, we thrive to always provide the best quality care and support that is person centered to all your needs.
+                            At Treasure Vince Care, our vision is to treat all our service users with dignity and respect. With this in mind, we strive to always provide the best quality care and support that is person centered to all your needs.
 
 
                         </p>

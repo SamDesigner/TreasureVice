@@ -44,7 +44,7 @@
                     <div>
                         <img src='/svg/clock.svg' />
                     </div>
-                    <p class="text-darkGreen leading-[32px] font-bold">Carers 24/7</p>
+                    <p class="text-darkGreen leading-[32px] font-bold">24/7 Care</p>
                     <p class="text-darkGreen text-[16px] leading-[28px]">
                         We provide 24/7 care to give you complete peace of mind.
                     </p>

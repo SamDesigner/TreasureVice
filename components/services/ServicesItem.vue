@@ -78,7 +78,7 @@
                                 <img src="/svg/2.svg" />
                             </div>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                                We tailor social care to each client's unique needs, creating meaningful and enjoyable activities that enhance their quality of life.
+                                We tailor our social care to each client's unique needs, creating meaningful and enjoyable activities that enhance their quality of life.
                             </p>
                         </div>
                     </div>

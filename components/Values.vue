@@ -3,7 +3,7 @@
         <div class="max-w-[1280px] mx-auto  ">
             <div class="lg:w-[740px] px-[16px] lg:px-[0px]"> 
                 <h1 class="text-[32px] md:text-[40px] text-darkGreen font-[600]">Our Values</h1>
-                <p class="text-[16px] font-[400] leading-[28px] text-darkGreen">At Treasure Vince Care, our values are at the heart of everything we do. Our philosophy of care as expressed in our core values are</p>
+                <p class="text-[16px] font-[400] leading-[28px] text-darkGreen">At Treasure Vince Care, our values is at the heart of everything we do and this is demonstrated in our philosophy of care.</p>
             </div>
             <div class="min-h-[500px] py-[40px] flex flex-col  lg:flex-row  items-center justify-center gap-[20px]">
                 <div class="grid grid-cols-2 gap-x-[30px] md:flex justify-between md:gap-[40px] lg:gap-[20px]">

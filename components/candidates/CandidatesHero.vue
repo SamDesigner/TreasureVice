@@ -7,7 +7,7 @@
             <div class="flex flex-col justify-center items-center w-[632px] ">
                 <div class="flex flex-col items-center flex flex-col gap-[8px]">
                     <h3 class="text-lightGreen text-[20px] md:text-[30px]">Our Candidates</h3>
-                    <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center">We Provide High Quality Services</h1>
+                    <h1 class="text-white text-[28px] md:text-[40px] font-[600] text-center">Working For Us</h1>
 
                 </div>
             

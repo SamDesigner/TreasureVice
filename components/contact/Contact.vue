@@ -153,7 +153,7 @@
                 "firstName": "",
                 "lastName": "",
                 "phoneNumber": {
-                    "code": "+234",
+                    "code": "+44",
                     "number": ""
                 },
                 "account": "Treasure Vice"
@@ -193,7 +193,7 @@
                 "firstName": "",
                 "lastName": "",
                 "phoneNumber": {
-                    "code": "+234",
+                    "code": "+44",
                     "number": ""
                 },
                 "account": "Treasure Vice"

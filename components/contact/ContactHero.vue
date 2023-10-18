@@ -6,7 +6,7 @@
                     <div class="gap-[4px]">
                         <h3 class="text-[18px] font-[400] leading-[28px] text-lightGreen text-center">Contact us</h3>
                         <h1 class="text-white  font-[600] text-[28px] lg:text-[40px] text-center leading-[44px] lg:leading-[56px]">We're here for you</h1>
-                        <p class="text-white text-[16px] font-[400] text-center leading-[28px]">Our friendly team is always ready to help you.</p>
+                        <p class="text-white text-[16px] font-[400] text-center leading-[28px]">Our friendly team are always ready to help you.</p>
                     </div>
                     <div class="hidden custom_bg w-full   h-[480px] rounded-[24px] md:flex justify-center items-center ">
                         <div class="lg:w-[848px] grid grid-cols-3  gap-[24px]">
